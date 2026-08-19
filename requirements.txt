@@ -40,7 +40,8 @@ mccabe
 numpy
 Pillow
 pycodestyle
-pygame
+#pygame
+pygame-ce
 pylint
 pyglet
 PyOpenGL
