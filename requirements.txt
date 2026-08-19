@@ -42,6 +42,7 @@ Pillow
 pycodestyle
 pygame
 pylint
+pyglet
 PyOpenGL
 PyOpenGL-accelerate
 pyparsing
