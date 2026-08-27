@@ -73,7 +73,9 @@ def escanear_linea_counting(screen, puntos, pos_y, color_fuera=ROJO, color_dentr
         else:
             #print(f'Cruce impares para x={x} pos_y={pos_y} anteriores:{lados_anteriores} lados actuales={lados_actuales}')
             color = color_dentro
+        time.sleep(0.01)
         pygame.draw.aaline(screen, color, (x, pos_y), (x, pos_y))
+        pygame.display.update()
 
 
 def leer_puntos(archivo='./pygame/poligono1.txt'):
