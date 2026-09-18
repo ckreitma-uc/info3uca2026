@@ -58,6 +58,9 @@ def main():
     glEnable(GL_LIGHT0)
     glMatrixMode(GL_PROJECTION)
     gluPerspective(40., 1., 1., 40.)
+    # gluLookAt(0, 0, 10,
+    #           0, 0, 0,
+    #           1, 0, 0)
     glMatrixMode(GL_MODELVIEW)
     ejecutando = True
     while ejecutando:

@@ -47,7 +47,7 @@ def Cube():
     # Inicializar la matriz.
     GL.glLoadIdentity()
 
-    GL.glTranslatef(0.0, 0.0, -20)
+    GL.glTranslatef(0.0, 0.0, -10)
 
     # Ángulo,
     #GL.glRotatef(45, 0, 0, 1)

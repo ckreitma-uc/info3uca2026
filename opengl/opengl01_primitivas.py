@@ -1,8 +1,8 @@
 # https://pharos.sh/breve-introduccion-a-opengl-en-python-con-pyopengl/
 
+# Entender como OpenGL trabaja con "paletas"
 from OpenGL import GL
 import pygame
-# from OpenGL.GLU import *
 
 
 w, h = 500, 500
@@ -22,7 +22,9 @@ def triangulo1():
     GL.glColor3f(0.5, 0.9, 0.1)
     GL.glBegin(GL.GL_TRIANGLES)
     GL.glVertex2f(400, 50)
+    GL.glColor3f(0.8, 0.2, 0.1)
     GL.glVertex2f(300, 200)
+    GL.glColor3f(0.5, 0.9, 0.1)
     GL.glVertex2f(250, 100)
     GL.glVertex2f(50, 400)
     GL.glVertex2f(80, 430)
