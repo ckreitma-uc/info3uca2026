@@ -155,9 +155,11 @@ def display():
     GL.glPopMatrix()
 
     GL.glPushMatrix()
-    color = [1.0, 1., 1., 1.]
+    color = [0.2, 0.5, 1., 1.]
     GL.glMaterialfv(GL.GL_FRONT, GL.GL_DIFFUSE, color)
     GL.glMaterialfv(GL.GL_FRONT, GL.GL_EMISSION, [0.0, 0.0, 0.0, 1.0])
+    GL.glMaterialfv(GL.GL_FRONT, GL.GL_SPECULAR, [1.0, 1.0, 1.0, 1.0])
+    GL.glMaterialfv(GL.GL_FRONT, GL.GL_SHININESS, [1.0])
     # GL.glRotatef(180, 1, 0, 0)
     # GL.glRotatef(-45, 0, 1, 0)
     GLUT.glutSolidTeapot(1, 1, 1)
