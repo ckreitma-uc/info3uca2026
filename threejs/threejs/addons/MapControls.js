@@ -1,4 +1,4 @@
-import { MOUSE, TOUCH } from 'three';
+import { MOUSE, TOUCH } from '../../threejs/three.module.js';
 
 import { OrbitControls } from './OrbitControls.js';
 
@@ -11,9 +11,9 @@ import { OrbitControls } from './OrbitControls.js';
 
 class MapControls extends OrbitControls {
 
-	constructor( object, domElement ) {
+	constructor(object, domElement) {
 
-		super( object, domElement );
+		super(object, domElement);
 
 		this.screenSpacePanning = false; // pan orthogonal to world-space direction camera.up
 

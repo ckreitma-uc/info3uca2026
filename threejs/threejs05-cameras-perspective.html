@@ -3,7 +3,8 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=yes">
     <title>Three.js - Cameras - Perspective</title>
     <style>
     html, body {
@@ -20,10 +21,19 @@
   <body>
     <canvas id="c"></canvas>
   </body>
-<script type="module">
-import * as THREE from './threejs/three.module.js';
-import {OrbitControls} from './threejs/addons/OrbitControls.js';
-import {GUI} from './threejs/3rdparty/dat.gui.module.js';
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.186.1/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.186.1/examples/jsm/",
+        "dat.gui": "https://cdn.jsdelivr.net/npm/dat.gui@0.7.9/build/dat.gui.module.js"
+      }
+    }
+  </script>
+  <script type="module">
+import * as THREE from 'three';
+import {OrbitControls} from 'three/addons/controls/OrbitControls.js';
+import {GUI} from 'dat.gui';
 
 function main() {
   const canvas = document.querySelector('#c');
@@ -153,6 +163,5 @@ function main() {
 }
 
 main();
-</script>
+  </script>
 </html>
-

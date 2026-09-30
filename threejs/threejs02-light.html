@@ -33,7 +33,7 @@ function main() {
     const intensity = 0.5;
     const light = new THREE.DirectionalLight(color, intensity);
     const ambiente = new THREE.AmbientLight(0x606060,0.4)
-    light.position.set(0, 0, 1);
+    light.position.set(0, 1, 0);
     scene.add(light);
     scene.add(ambiente);
   }

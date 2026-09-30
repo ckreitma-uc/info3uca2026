@@ -48,7 +48,7 @@ function main() {
 
   const radius = 0.4;  // ui: radius
   const height = 0.8;  // ui: height
-  const radialSegments = 32;  // ui: radialSegments
+  const radialSegments = 6;  // ui: radialSegments
   const geometry = new THREE.ConeGeometry(radius, height, radialSegments);
 
   //Agregado
@@ -69,7 +69,7 @@ function main() {
     makeInstance(geometry, 0x44aa88,  0),
     makeInstance(geometry, 0x8844aa, -2),
     makeInstance(geometry, 0xaa8844,  2),
-    //makeInstance(cubogeometry, 0x22aaff,  -2.5),
+    makeInstance(cubogeometry, 0x22aaff,  -2.5),
   ];
 
   function render(time) {
