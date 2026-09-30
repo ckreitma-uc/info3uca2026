@@ -1,0 +1,111 @@
+<!-- Licensed under a BSD license. See license.html for license -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Sistema Solar (SOL) + Tierra (dónde?)</title>
+    <style>
+      html, body {
+        margin: 0;
+        height: 100%;
+      }
+      #c {
+        width: 80%;
+        height: 80%;
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <canvas id="c"></canvas>
+    <img src="threejs07.svg" alt="Jerarquía">
+  </body>
+  <script type="module">
+import * as THREE from './threejs/three.module.js';
+
+function main() {
+  const canvas = document.querySelector('#c');
+  const renderer = new THREE.WebGLRenderer({canvas});
+  const scene = new THREE.Scene();
+  // an array of objects whose rotation to update
+  const objects = [];
+
+
+  /********************* SOL ****************************************************/
+  // use just one sphere for everything
+  const radius = 1;
+  const widthSegments = 6;
+  const heightSegments = 6;
+  const sphereGeometry = new THREE.SphereGeometry(radius, widthSegments, heightSegments);
+
+  const sunMaterial = new THREE.MeshPhongMaterial({emissive: 0xFFFF00});
+  const sunMesh = new THREE.Mesh(sphereGeometry, sunMaterial);
+  sunMesh.scale.set(5, 5, 5);  // make the sun large
+  scene.add(sunMesh);
+  objects.push(sunMesh);
+
+
+  /****************** TIERRA *********************************************/
+  const earthMaterial = new THREE.MeshPhongMaterial({color: 0x2233FF, emissive: 0x112244});
+  const earthMesh = new THREE.Mesh(sphereGeometry, earthMaterial);
+  earthMesh.position.x = 10;
+  earthMesh.scale.set(.5, .5, .5);
+  //scene.add(earthMesh);
+  sunMesh.add(earthMesh);
+  objects.push(earthMesh);
+
+  /******************* LUZ **************************************************/
+  {
+    const color = 0xFFFFFF;
+    const intensity = 500;
+    const light = new THREE.PointLight(color, intensity);
+    scene.add(light);
+  }
+
+  /******************** CAMARA *************************************/
+  const fov = 40;
+  const aspect = 2;
+  const near = 0.1;
+  const far = 1000;
+  const camera = new THREE.PerspectiveCamera(fov, aspect, near, far);
+
+  // If camera is located to close to the origin, earth won't show
+  camera.position.set(0, 150, 0);
+  camera.up.set(0, 0, 1);
+  camera.lookAt(0, 0, 0);
+
+  function render(time) {
+    time *= 0.001;  // convert time to seconds
+
+    objects.forEach((obj, ndx) => {
+      obj.rotation.y = time;
+    });
+
+    function resizeRendererToDisplaySize(renderer) {
+      const canvas = renderer.domElement;
+      const width = canvas.clientWidth;
+      const height = canvas.clientHeight;
+      const needResize = canvas.width !== width || canvas.height !== height;
+      if (needResize) {
+        renderer.setSize(width, height, false);
+      }
+      return needResize;
+    }
+    if (resizeRendererToDisplaySize(renderer)) {
+      const canvas = renderer.domElement;
+      camera.aspect = canvas.clientWidth / canvas.clientHeight;
+      camera.updateProjectionMatrix();
+    }
+    renderer.render(scene, camera);
+
+    requestAnimationFrame(render);
+  }
+  requestAnimationFrame(render);
+
+}
+
+main();
+  </script>
+</html>
