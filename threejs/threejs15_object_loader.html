@@ -50,18 +50,18 @@
   <script type="importmap">
 			{
 				"imports": {
-					"three": "../threejs/threejs/three.module.js",
-					"object_loader": "../threejs/threejs/loaders/OBJLoader.js",
-          "mtt_loader": "../threejs/threejs/loaders/MTTLoader.js"
+          "three": "https://cdn.jsdelivr.net/npm/three@0.186.1/build/three.module.js",
+          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.186.1/examples/jsm/",
+          "dat.gui": "https://cdn.jsdelivr.net/npm/dat.gui@0.7.9/build/dat.gui.module.js"
 				}
 			}
   </script>
   <script type="module">
-  import * as THREE from './threejs/three.module.js';
-  import {GUI} from './threejs/3rdparty/dat.gui.module.js';
-  import {OrbitControls} from './threejs/addons/OrbitControls.js';
-  import {OBJLoader} from './threejs/loaders/OBJLoader.js';
-  import {MTLLoader} from './threejs/loaders/MTLLoader.js';
+  import * as THREE from 'three';
+  import {GUI} from 'dat.gui';
+  import {OrbitControls} from 'three/addons/controls/OrbitControls.js';
+  import {OBJLoader} from 'three/addons/loaders/OBJLoader.js';
+  import {MTLLoader} from 'three/addons/loaders/MTLLoader.js';
 
 function main() {
   const canvas = document.querySelector('#c');

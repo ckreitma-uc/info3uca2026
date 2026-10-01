@@ -1,34 +1,36 @@
 <!-- https://threejs.org/examples/#webgl_materials_lightmap -->
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<title>three.js webgl - materials - lightmap</title>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-		<link type="text/css" rel="stylesheet" href="main.css">
-	</head>
-
-	<body>
-		<script type="importmap">
+    <head>
+        <title>three.js webgl - materials - lightmap</title>
+        <meta charset="utf-8">
+        <meta name="viewport"
+              content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+        <link type="text/css"
+              rel="stylesheet"
+              href="https://cdn.jsdelivr.net/gh/mrdoob/three.js@r186/examples/main.css">
+    </head>
+    <body>
+        <script type="importmap">
 			{
 				"imports": {
-					"three": "../build/three.module.js",
-					"three/addons/": "./jsm/",
-					"three/nodes": "./jsm/nodes/Nodes.js"
+					"three": "https://cdn.jsdelivr.net/npm/three@0.186.1/build/three.module.js",
+					"three/webgpu": "https://cdn.jsdelivr.net/npm/three@0.186.1/build/three.webgpu.js",
+					"three/tsl": "https://cdn.jsdelivr.net/npm/three@0.186.1/build/three.tsl.js",
+					"three/addons/": "https://cdn.jsdelivr.net/npm/three@0.186.1/examples/jsm/"
 				}
 			}
-		</script>
+        </script>
+        <script type="module">
 
-		<script type="module">
+			import * as THREE from 'three/webgpu';
 
-			import * as THREE from './threejs/three.js';
-
-			import Stats from '.threejs/addons/libs/stats.module.js';
+			import Stats from 'three/addons/libs/stats.module.js';
 
 			import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 
-			import { MeshBasicNodeMaterial, vec4, color, positionLocal, mix } from 'three/nodes';
-			import { nodeFrame } from 'three/addons/renderers/webgl-legacy/nodes/WebGLNodes.js';
+			import { MeshBasicNodeMaterial } from 'three/webgpu';
+			import { vec4, color, positionLocal, mix } from 'three/tsl';
 
 			let container, stats;
 			let camera, scene, renderer;
@@ -77,9 +79,10 @@
 
 				// RENDERER
 
-				renderer = new THREE.WebGLRenderer( { antialias: true } );
+				renderer = new THREE.WebGPURenderer( { antialias: true } );
 				renderer.setPixelRatio( window.devicePixelRatio );
 				renderer.setSize( innerWidth, innerHeight );
+				await renderer.init();
 				container.appendChild( renderer.domElement );
 
 				// CONTROLS
@@ -95,8 +98,16 @@
 
 				// MODEL
 
-				const loader = new THREE.ObjectLoader();
-				const object = await loader.loadAsync( './threejs/models/json/lightmap/lightmap.json' );
+				const manager = new THREE.LoadingManager();
+				manager.setURLModifier( url => {
+					const asset = url.split( '/' ).pop();
+					if ( asset === 'lightmap-ao-shadow.png' || asset === 'rocks.jpg' || asset === 'stone.jpg' ) {
+						return `https://raw.githubusercontent.com/mrdoob/three.js/r186/examples/models/json/lightmap/${asset}`;
+					}
+					return url;
+				} );
+				const loader = new THREE.ObjectLoader( manager );
+				const object = await loader.loadAsync( './threejs/models/json/lightmap.json' );
 				scene.add( object );
 
 				//
@@ -120,15 +131,11 @@
 
 				requestAnimationFrame( animate );
 
-				nodeFrame.update();
-
 				renderer.render( scene, camera );
 				stats.update();
 
 			}
 
-		</script>
-
-	</body>
-
+        </script>
+    </body>
 </html>

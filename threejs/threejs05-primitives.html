@@ -24,8 +24,8 @@
   <script type="importmap">
     {
       "imports": {
-        "three": "https://cdn.jsdelivr.net/npm/three@0.169.0/build/three.module.js",
-        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.169.0/examples/jsm/"
+        "three": "https://cdn.jsdelivr.net/npm/three@0.186.1/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.186.1/examples/jsm/"
       }
     }
   </script>
@@ -277,7 +277,7 @@ function main() {
     }
 
     async function doit() {
-      const font = await loadFont('resources/threejs/fonts/helvetiker_regular.typeface.json');  /* threejsfundamentals: url */
+      const font = await loadFont('./threejs/fonts/helvetiker_regular.typeface.json');  /* threejsfundamentals: url */
       const geometry = new TextGeometry('three.js', {
         font: font,
         size: 3.0,
