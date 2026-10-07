@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <title>D3 01</title>
+        <script type="text/javascript" src="./lib/d3.js"></script>
+        <style type="text/css"></style>
+    </head>
+    <body>
+        <p>INFO3</p>
+        <script type="text/javascript">
+        var dataset = [ 5, 10, 15, 20, 25,30];
+        d3.select("body")
+            .selectAll("p")
+            .data(dataset)
+            .enter()
+            .append("p")
+            .text("Inicio D3");
+        </script>
+    </body>
+</html>

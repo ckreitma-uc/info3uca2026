@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>SVG Text</title>
+    <style></style>
+  </head>
+  <body>
+    <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="100" cy="100" r="20" fill="blue">
+      <animate attributeName="r" from="20" to="40" dur="1s" repeatCount="indefinite" />
+      </circle>
+    </svg>
+    <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+      <!-- Head -->
+      <circle cx="50" cy="50" r="10" fill="black" />
+      <!-- Body -->
+      <rect x="45" y="60" width="10" height="20" fill="blue">
+      <animate attributeName="fill" dur="3s" values="black; green; blue; red;" repeatCount="indefinite" />
+      </rect>
+      <!-- Legs and arms (basic representation) -->
+      <line x1="50" y1="80" x2="55" y2="90" stroke="black" stroke-width="2">
+      <animate1 attributeName="y2" dur="1s" values="90; 80; 90" repeatCount="indefinite" />
+      </line>
+      <line x1="50" y1="80" x2="45" y2="90" stroke="black" stroke-width="2">
+      <animate attributeName="y2" dur="1s" begin="0.5s" values="90; 80; 90" repeatCount="indefinite" />
+      </line>
+      <line x1="50" y1="70" x2="40" y2="60" stroke="black" stroke-width="2">
+      <animate attributeName="y2" dur="1s" begin="0.5s" values="60; 70; 60" repeatCount="indefinite" />
+      </line>
+      <line x1="50" y1="70" x2="60" y2="60" stroke="black" stroke-width="2">
+      <animate attributeName="y2" dur="1s" values="60; 70; 60" repeatCount="indefinite" />
+      </line>
+    </svg>
+  </body>
+</html>

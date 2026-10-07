@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport"
+              content="width=device-width, initial-scale=1.0, user-scalable=yes">
+        <title>D3 Selector</title>
+        <script src="./lib/d3.v7.js"></script>
+    </head>
+    <body>
+        <table border="1">
+            <tr>
+                <td>One</td>
+                <td>Two</td>
+            </tr>
+            <tr>
+                <td>Three</td>
+                <td>Four</td>
+            </tr>
+        </table>
+        <script type = "text/javascript">d3.select("tr").selectAll("td").style('background-color','yellow');</script>
+    </body>
+</html>

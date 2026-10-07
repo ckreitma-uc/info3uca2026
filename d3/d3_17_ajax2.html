@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+        <style>
+            .frame1 {
+            position: relative;
+            border: 1px solid black;
+            }
+
+            .graph {
+            margin: 12px 0 0 12px;
+            }
+
+            .legend{
+            color: white;
+            }
+
+            .gradient1 {
+            
+            }
+
+            .legend {
+            opacity: .5;
+            stroke: black;
+            }
+
+            .tooltip1 {
+            color: white;
+            position: absolute;
+            padding: 20px;
+            bottom: 0;
+            background-color: rgba(0,0,0,.85);
+            border-radius: 20px;
+            z-index: 5;
+            width: 40%;
+            opacity: 0;
+            }
+
+            .info1 {
+            color: #9fff80;
+            }
+
+            .info2 {
+            color: #ffcc00;
+            }
+
+            .info3 {
+            color: #ff3300
+            }    
+        </style>
+    </head>
+    <div class="chart-container"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+    <body>
+        <script>
+var vars = {
+ data0: undefined,
+ w1: undefined,
+ h1: undefined
+};
+
+
+var d3vars1 = {
+  data: undefined
+};
+
+
+(function() { 
+ 
+  vars.w1 = window.innerWidth-20<600?600:window.innerWidth-20;
+vars.h1 = vars.w1/1.607142857;
+  d3vars1.f1 = d3.select('body').append('div').style('height',vars.h1+'px').attr('id','#frame1').classed('frame1',true);
+  d3vars1.s1 = d3vars1.f1.append('svg')
+                      .attr('height',vars.h1-20)                         .attr('width',vars.w1-20)                         .classed('graph',true)
+        .attr("preserveAspectRatio", "xMinYMin meet")
+        .attr("viewBox", ("0 0 "+(vars.w1-20) + ' ' +  (vars.h1-20) ));
+  
+  d3vars1.tooltip = d3vars1.f1.append('div')               .attr('id','tooltip')
+          .classed('tooltip1',true); 
+  
+  d3vars1.toolP1 = d3vars1.tooltip.append('p');
+  d3vars1.toolP2 = d3vars1.tooltip.append('p');
+  d3vars1.toolP3 = d3vars1.tooltip.append('p');
+  d3vars1.toolP4 = d3vars1.tooltip.append('p');
+  d3vars1.toolP5 = d3vars1.tooltip.append('p');
+  
+  
+  
+  
+})();
+
+
+d3.json('https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json', function(data){
+  d3vars1.data = data;
+  console.log('data: '+d3vars1.data + " 0: " + d3vars1.data[0]['Year'] + ' 1: ' + d3vars1.data[1]['Time'] +' '+ d3vars1.data.length);
+ 
+  
+  d3vars1.parsedData = d3vars1.data.map(function(d){
+     var parsedTime = d.Time.split(':');
+     return new Date(Date.UTC(1970, 0, 1, 0, parsedTime[0], parsedTime[1]))
+  });
+  
+  
+  d3vars1.doping = d3vars1.data.map(function(d) {
+    return d.Doping
+  }
+                                   );
+  
+  console.log('dope: ' + d3vars1.doping.join(' $ '));
+  
+   d3vars1.data.forEach(function(d) {
+    /*d.Place = +d.Place;*/
+    var pT = d.Time.split(':');
+    d.Time = new Date(Date.UTC(1970, 0, 1, 0, pT[0], pT[1]));
+  });
+  
+  d3vars1.dStatus = [0,0,0];
+  d3vars1.data.forEach(function(d) {
+    d.Doping===""? (d3vars1.dStatus[0]=d3vars1.dStatus[0]+1) :
+     (/^Alleged/.test(d.Doping)) ? (d3vars1.dStatus[1]=d3vars1.dStatus[1]+1) :
+    (d3vars1.dStatus[2]=d3vars1.dStatus[2]+1)
+  })
+  
+  /*(d)=>d.Doping===''?'#9fff80':  
+                    /^Alleged/.test(d.Doping)? '#ffcc00':
+                    '#ff3300'*/
+  
+  
+  console.log('alleged: ' + d3vars1.dStatus);
+  
+  d3vars1.timeFormat = d3.timeFormat("%M:%S");
+  
+  
+  
+  
+  /*d3vars.rects = d3vars.s1
+              .selectAll('rect')
+              .data(d3vars.data)
+              .enter()
+              .append('rect')*/
+  
+   d3vars1.scaleX = d3.scaleTime()
+                    .domain([
+     d3.min( d3vars1.data, (d)=> new Date(d['Year'])
+     ),
+     d3.max ( d3vars1.data, (d)=> new Date(d['Year']) )    
+                           ])
+                    .range([
+     100, vars.w1-50
+     
+   ]);
+  
+ /*var max = d3.max ( d3vars1.data, (d)=> d['Time'] );
+  var min = d3.min ( d3vars1.data, (d)=> d['Time'] );
+  
+  var tFormat = "%M:%S";
+var parsedData = d3vars1.data.map(function(d) {
+  return d3.timeParse(tFormat)(d.Time)
+});*/
+  
+  d3vars1.scaleY = d3.scaleTime()
+                    .domain([
+                    d3.min(
+                     d3vars1.data, (d)=>d.Time
+                    ),
+                    d3.max(
+                     d3vars1.data, (d)=>d.Time
+                    )
+  ])
+                    .range([  70, vars.h1-70 ]);
+  
+  
+  
+  /*d3vars1.xAxis = d3.axisBottom(d3vars1.scaleX);*/
+  
+ /* 
+  .domain([d3.min(d3vars.data, (d)=> new Date(d[0])  ),
+                    d3.max(d3vars.data, (d)=> new Date(d[0])  )       
+                 ])
+                .range([30,vars.w1-51 ])*/
+ 
+  
+  d3vars1.xAxis = d3.axisBottom(d3vars1.scaleX).tickFormat(d3.format("d"));
+  d3vars1.yAxis = d3.axisLeft(d3vars1.scaleY).tickFormat(d3vars1.timeFormat);
+  
+  d3vars1.random = [-1,1];
+  
+   d3vars1.s1.selectAll('circle')
+              .data(d3vars1.data)
+              .enter()
+              .append('circle')
+              .attr('cx', (d)=>d3vars1.scaleX(d['Year']))
+              .attr('cy', (d)=>d3vars1.scaleY(d['Time']))
+              .attr('r', ((vars.w1-20)*.0075)  )
+              .attr('fill', (d)=>d.Doping===''?'#9fff80':  
+                    /^Alleged/.test(d.Doping)? '#ffcc00':
+                    '#ff3300')
+              .style('stroke','black')
+              .classed('dot',true)
+              .attr('data-xvalue',(d)=>d.Year)
+              .attr('data-yvalue',(d)=>d.Time)
+              .on('mouseenter',function(d,i) {
+                console.log('year ' + d.Year);
+                d3vars1.tooltip.attr('data-year', d.Year).style('left', d.Year>2005?'0':'60%');
+    d3vars1.class = d.Doping===''?'info1':  
+   /^Alleged/.test(d.Doping)? 'info2':'info3'; 
+     
+     d3vars1.toolP1.html('<b class="'+ d3vars1.class+ '">Name:</b> ' + d.Name);
+     d3vars1.toolP2.html('<b class="'+ d3vars1.class+ '">Nationality:</b> ' + d.Nationality);
+     d3vars1.toolP3.html('<b class="'+ d3vars1.class+ '">Time:</b> ' + d.Time.getMinutes() + ':'+d.Time.getSeconds());
+     d3vars1.toolP4.html('<b class="'+d3vars1.class+'">Year:</b> ' + d.Year);
+     d3vars1.toolP5.html('<b class="'+d3vars1.class+'">Status:</b> ' + (d.Doping==''?'No Doping Allegations':d.Doping) );
+     
+     
+     
+                d3.select(this).transition()
+                  .duration(200)
+                  .style('opacity',.5)
+                  .attr('cx', (d)=> (d3vars1.scaleX(d['Year']) + ( ((d3vars1.data.indexOf(d))%2? -1 : 1)  * ((vars.w1-20)*.0045)  )        )                  
+                         )
+              .attr('cy', (d)=> ( d3vars1.scaleY(d['Time'])  + ( ((d3vars1.data.indexOf(d))%2? 1 : -1) 
+                  *((vars.w1-20)*.0045)   )
+     ));
+     
+      
+            d3vars1.tooltip.transition()
+                .duration(200)
+  .style('opacity',1);
+            
+           
+     
+     
+     
+                
+   })
+              .on('mouseleave', function(d,i) {
+                d3.select(this)
+                  .transition()
+                  .duration(200)
+                  .style('opacity',1)
+                  .attr('cx', (d)=>d3vars1.scaleX(d['Year']))
+              .attr('cy', (d)=>d3vars1.scaleY(d['Time']));
+           d3vars1.tooltip.transition()
+                .duration(200)
+  .style('opacity',0);
+   })
+  ;
+  
+  d3vars1.s1.append('g')
+            .attr('id','y-axis')
+            .call(d3vars1.yAxis)
+            .attr("transform", "translate(93,0)")
+            .style('font-size',((vars.w1-20)*.018)   );
+  
+  
+  
+ d3vars1.s1.append('g')
+            .attr('id','x-axis')
+            .call(d3vars1.xAxis)
+            .attr("transform", "translate(0," + (vars.h1-63) + ")")
+            .style('font-size',((vars.w1-20)*.018)   );
+  
+ d3vars1.s1.append('text')
+           .attr("transform", "rotate(-90,190, 175)")
+           .style('font-size',((vars.w1-20)*.02) )
+           .text('Race Time in Minutes');
+  
+  d3vars1.s1.append('text')
+             .style('font-size',((vars.w1-20)*.031) )
+             .text('Doping in Professional Cyclist')
+             .attr('id','title')
+             .attr('x',((vars.w1-20)*.33)).attr('y',50);
+  
+ d3vars1.s1.append('text')
+             .style('font-size',((vars.w1-20)*.022) )
+             .text("35 Fastest times up Alpe d'Huez")
+             .attr('id','subtitle')
+             .attr('x',((vars.w1-20)*.38)).attr('y',80);
+  
+ 
+  d3vars1.g1 = d3vars1.s1.append('g')   
+             .attr("id","legend");
+  
+   d3vars1.g1.append('rect')
+             .attr("class","legend")
+             .attr('fill','rgba(15,35,15,.1)')
+             .attr('height',((vars.h1-20)*.25))
+             .attr('width',((vars.w1-20)*.33))
+             .attr('x',((vars.w1-20)*.65))
+             .attr('y',((vars.h1-20)*.2));
+  
+  
+  
+  
+ d3vars1.g1.append('text')
+            .text('Legend')
+            .attr('x',((vars.w1-20)*.78))
+            .attr('y',((vars.h1-20)*.265))
+            .style('font-size',((vars.w1-20)*.022) );
+  
+   d3vars1.g1.append('circle')
+            .style('stroke','black')
+            .attr('fill','#9fff80')
+            .attr('r', ((vars.w1-20)*.0075) )
+            .attr('cx',((vars.w1-20)*.67))
+            .attr('cy',((vars.h1-20)*.3045));
+  
+  d3vars1.g1.append('circle')
+            .style('stroke','black')
+            .attr('fill','#ffcc00')
+            .attr('r', ((vars.w1-20)*.0075) )
+            .attr('cx',((vars.w1-20)*.67))
+            .attr('cy',((vars.h1-20)*.3505));
+  
+  d3vars1.g1.append('circle')
+            .style('stroke','black')
+            .attr('fill','#ff3300')
+            .attr('r', ((vars.w1-20)*.0075) )
+            .attr('cx',((vars.w1-20)*.67))
+            .attr('cy',((vars.h1-20)*.3965));
+  
+  d3vars1.g1.append('text')
+            .text('No Doping Allegations (' + (d3vars1.dStatus[0]/35)*100 + '%)')
+            .style('font-size',((vars.w1-20)*.017)   )
+            .attr('x',((vars.w1-20)*.685))
+            .attr('y',((vars.h1-20)*.315));
+  
+  d3vars1.g1.append('text')
+            .text('Doping Allegations (' + (d3vars1.dStatus[1]/35)*100 + '%)')
+            .style('font-size',((vars.w1-20)*.017)   )
+            .attr('x',((vars.w1-20)*.685))
+            .attr('y',((vars.h1-20)*.36));
+ 
+  d3vars1.g1.append('text')
+            .text('Evidence & Allegations of Doping (' + (d3vars1.dStatus[2]/35)*100 + '%)')
+            .style('font-size',((vars.w1-20)*.017)   )
+            .attr('x',((vars.w1-20)*.685))
+            .attr('y',((vars.h1-20)*.405));
+  
+  
+  
+  
+            
+  
+  
+} );
+
+
+const delay = 100;  // Your delay here
+
+const originalResize = evt => {
+  console.log('evt'); 
+  vars.w1 = window.innerWidth-20<600?600:window.innerWidth-20;
+vars.h1 = vars.w1/1.607142857; 
+  d3vars1.f1.style('width',vars.w1+'px')
+            .style('height', vars.h1+'px'); 
+  d3vars1.s1.attr('height',(vars.h1-20)  )
+              .attr('width',(vars.w1-20));
+  
+  
+};
+
+
+(() => {
+  resizeTaskId = null;
+
+  window.addEventListener('resize', evt => {
+    if (resizeTaskId !== null) {
+      clearTimeout(resizeTaskId);
+    }
+
+    resizeTaskId = setTimeout(() => {
+      resizeTaskId = null;
+      originalResize(evt);
+    }, delay);
+  });
+})();        
+        </script>
+    </body>
+</html>

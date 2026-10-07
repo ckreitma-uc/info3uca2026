@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport"
+              content="width=device-width, initial-scale=1.0, user-scalable=yes">
+        <title>D3 Data Simple</title>
+        <script src="./lib/d3.v7.js"></script>
+    </head>
+    <body>
+        <p></p>
+        <p></p>
+        <p></p>
+        <script type = "text/javascript">
+            var data = [100, 200, 300];
+            var paragraph = d3.select("body")
+                .selectAll("p")
+                .data(data)
+                .text(function (d, i) {
+                    console.log("d: " + d);
+                    console.log("i: " + i);
+                    console.log("this: " + this);
+
+                    return d;
+                });
+        </script>
+    </body>
+</html>

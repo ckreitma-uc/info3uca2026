@@ -1,0 +1,15 @@
+{
+    "posts": [{
+        "content": "blablabla",
+        "id": 1
+    }, {
+        "content": "pero",
+        "id": 2
+    }, {
+        "content": "Otro",
+        "id": 3
+    }, {
+        "abccolor": "UltimaNoticia",
+        "id": 4
+    }]
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport"
+              content="width=device-width, initial-scale=1.0, user-scalable=yes">
+        <title>D3 Selector</title>
+        <script src="./lib/d3.v7.js"></script>
+    </head>
+    <body>
+        <p id="parrafo">Primer Párrafo</p>
+        <p class="formateado">Segundo Párrafo</p>
+        <script type = "text/javascript">
+            //Se selecciona por "id"
+            p1 = d3.select("#parrafo");
+            p1.text("Hola");
+
+            //Se selecciona por clase.
+            p2 = d3.select(".formateado");
+            p2.append("span").text("Adicional");
+        </script>
+    </body>
+</html>

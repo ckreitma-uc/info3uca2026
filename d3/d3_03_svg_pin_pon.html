@@ -1,0 +1,76 @@
+<!-- Licensed under a BSD license. See license.html for license -->
+<!-- https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/ -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>SVG Pin Pon</title>
+    <style type="text/css">
+      .gingerbread .body {
+        fill: #cd803d;
+      }
+
+      .gingerbread .eye {
+        fill: white;
+      }
+
+      .gingerbread .mouth {
+        fill: none;
+        stroke: white;
+        stroke-width: 2px;
+      }
+
+      .gingerbread .limb {
+        stroke: #cd803d;
+        stroke-width: 35px;
+        stroke-linecap: round;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>SVG 3 Pin Pon</h1>
+    <svg 
+      class="gingerbread"
+      width="200"
+      height="200"
+      viewBox="-100 -100 200 200">
+
+      <circle 
+        class="body"
+        cx="0"
+        cy="-50"
+        r="30" />
+
+      <circle
+        class="eye"
+        cx="-12"
+        cy="-55"
+        r="3" />
+    
+      <circle
+        class="eye"
+        cx="12"
+        cy="-55"
+        r="3" />
+  
+        <rect
+          class="mouth"
+          x="-10"
+          y="-40"
+          width="20"
+          height="5"
+          rx="2" />
+
+          <line class="limb" x1="-40" y1="-10" x2="40" y2="-10" />
+          <line class="limb" x1="-25" y1="50" x2="0" y2="-15" />
+          <line class="limb" x1="25" y1="50" x2="0" y2="-15" />
+
+          <circle class="button" cx="0" cy="-10" r="5" />
+          <circle class="button" cx="0" cy="10" r="5" />
+      </svg>
+  </body>
+<script type="module">
+</script>
+</html>
+

@@ -1,0 +1,39 @@
+<!-- Licensed under a BSD license. See license.html for license -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>SVG Transform</title>
+    <style></style>
+  </head>
+  <body>
+    <h1>SVG Transform</h1>
+    <svg width="200" height="200" viewBox="-100 -100 200 200">
+      <g transform="translate(0 5)">
+      <g>
+      <polygon points="0,0 36,-50 0,-100" fill="#EDD8B7" />
+      <polygon points="0,0 -36,-50 0,-100" fill="#E5C39C" />
+      </g>
+      <g transform="rotate(72)">
+      <polygon points="0,0 36,-50 0,-100" fill="#EDD8B7" />
+      <polygon points="0,0 -36,-50 0,-100" fill="#E5C39C" />
+      </g>
+      <g transform="rotate(-72)">
+      <polygon points="0,0 36,-50 0,-100" fill="#EDD8B7" />
+      <polygon points="0,0 -36,-50 0,-100" fill="#E5C39C" />
+      </g>
+      <g transform="rotate(144)">
+      <polygon points="0,0 36,-50 0,-100" fill="#EDD8B7" />
+      <polygon points="0,0 -36,-50 0,-100" fill="#E5C39C" />
+      </g>
+      <g transform="rotate(-144)">
+      <polygon points="0,0 36,-50 0,-100" fill="#EDD8B7" />
+      <polygon points="0,0 -36,-50 0,-100" fill="#E5C39C" />
+      </g>
+      </g>
+    </svg>
+  </body>
+  <script type="module"></script>
+</html>

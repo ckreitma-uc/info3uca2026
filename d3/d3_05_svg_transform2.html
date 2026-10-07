@@ -1,0 +1,27 @@
+<!-- Licensed under a BSD license. See license.html for license -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>SVG Transform</title>
+    <style></style>
+  </head>
+  <body>
+    <h1>SVG Transform</h1>
+    <svg width="200" height="200" viewBox="-100 -100 200 200">
+      <defs>
+      <!-- M es "Move" L es "Line"-->
+      <path id="branch" d=" M 0 0 L 0 -90 M 0 -20 L 20 -34 M 0 -20 L -20 -34 M 0 -40 L 20 -54 M 0 -40 L -20 -54 M 0 -60 L 20 -74 M 0 -60 L -20 -74" stroke="#E5C39C" stroke-width="5" />
+      </defs>
+      <use href="#branch" />
+      <use href="#branch" transform="rotate(60)" />
+      <use href="#branch" transform="rotate(120)" />
+      <use href="#branch" transform="rotate(180)" />
+      <use href="#branch" transform="rotate(240)" />
+      <use href="#branch" transform="rotate(300)" />
+    </svg>
+  </body>
+  <script type="module"></script>
+</html>

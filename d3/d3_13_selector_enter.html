@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <!-- http://gcoch.github.io/D3-tutorial/datos-propios.html -->
+        <meta charset="utf-8">
+        <title>D3 01</title>
+        <script type="text/javascript" src="./lib/d3.js"></script>
+        <style type="text/css"></style>
+    </head>
+    <body>
+        <script type="text/javascript">
+			var dataset = [ 5, 10, 15, 20, 25, 50];
+			d3.select("body")
+				.selectAll("p")
+				.data(dataset)
+				.enter()
+				.append("p")
+				.text(function(d) {
+					return "I can count up to " + d;
+				})
+				.style("color", function(d) {
+					if (d > 15) {	//Threshold of 15
+						return "red";
+					} else {
+						return "black";
+					}
+				});
+        </script>
+    </body>
+</html>

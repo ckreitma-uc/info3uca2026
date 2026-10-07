@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport"
+              content="width=device-width, initial-scale=1.0, user-scalable=yes">
+        <title>D3 Encadenamiento</title>
+        <script src="./lib/d3.v7.js"></script>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td>One</td>
+                <td>Two</td>
+            </tr>
+            <tr>
+                <td>Three</td>
+                <td>Four</td>
+            </tr>
+        </table>
+        <script type = "text/javascript">
+            d3.select("tr").selectAll("td").style('background-color','yellow');
+            d3.select("body")
+                .append("p")
+                .text("Después de la tabla");
+        </script>
+    </body>
+</html>
