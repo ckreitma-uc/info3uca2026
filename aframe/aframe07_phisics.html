@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta name="language" content="en">
+        <meta charset="utf-8">
+        <meta name="description" content="Three.js fundamentals with animation">
+        <meta name="viewport"
+              content="width=device-width, initial-scale=1.0, user-scalable=yes">
+        <script src="https://aframe.io/releases/1.8.0/aframe.min.js"></script>
+        <script src="https://unpkg.com/@c-frame/aframe-physics-system@4.2.3/dist/aframe-physics-system.min.js"></script>        <style>
+        .overlay {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            z-index: 9999;
+            color: white;
+  }
+        </style>
+        <title>AFrame - Tutorial 06</title>
+    </head>
+    <body>
+        <a-scene physics>
+            <a-box position="-1 4 -3" rotation="0 45 0" color="#4CC3D9" dynamic-body></a-box>
+                <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4" static-body></a-plane>
+                    <a-sky color="#ECECEC"></a-sky>
+                    </a-scene>
+                </body>
+            </html>

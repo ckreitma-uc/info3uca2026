@@ -1,0 +1,42 @@
+<!-- A-Frame is a three.js framework with an entity-component-system (ECS) architecture.
+ ECS architecture is a common and desirable pattern in 3D and game development
+ that follows the composition over inheritance and hierarchy principle. 
+-->
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta name="language" content="en">
+        <meta charset="utf-8">
+        <meta name="description" content="Three.js fundamentals with animation">
+        <meta name="viewport"
+              content="width=device-width, initial-scale=1.0, user-scalable=yes">
+        <script src="https://aframe.io/releases/1.8.0/aframe.min.js"></script>
+        <style>
+        .overlay {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            z-index: 9999;
+            color: white;
+  }
+        </style>
+        <title>AFrame</title>
+    </head>
+    <body>
+        <a-scene>
+            <a-text value="Hola Mundo" position="-1 2 -3" color="blue"></a-text>
+                <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9">NO SE
+                </a-box>
+                <a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E">
+                </a-sphere>
+                <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D">
+                </a-cylinder>
+                <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4">
+                </a-plane>
+            </a-scene>
+            <div class="overlay">
+                <a href="https://aframe.io/docs/1.8.0/introduction/" target="_blank">Obtenido de A-Frame Introduction</a>
+            </div>
+        </body>
+        <script type="text/javascript"></script>
+    </html>
