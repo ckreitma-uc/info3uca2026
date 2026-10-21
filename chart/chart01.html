@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <!-- https://parzibyte.me/blog/2021/01/03/chart-js-tutorial-ejemplos-graficas-web/ -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="Ejemplo de gráficas con Chart.js">
+        <title>Gráficas con chart.js | By Parzibyte</title>
+        <script src="./lib/chart.min.js"></script>
+    </head>
+    <body>
+        <h1>Ejemplo 1 - Gráfica de líneas</h1>
+        <div class="chart-container"
+             style="position: relative;
+                    width: 50vw;
+                    height: 50vh">
+            <canvas id="grafica" width="400" height="200" viewBox="0 0 400 200"></canvas>
+        </div>
+        <script>
+        // Obtener una referencia al elemento canvas del DOM
+        const $grafica = document.querySelector("#grafica");
+        // Las etiquetas son las que van en el eje X. 
+        const etiquetas = ["Enero", "Febrero", "Marzo", "Abril"]
+        // Podemos tener varios conjuntos de datos. Comencemos con uno
+        const ventas2026 = {
+            label: "Ventas mensuales",
+            data: [5000, 1500, 8000, 5102], // La data es un arreglo que debe tener la misma cantidad de valores que la cantidad de etiquetas
+            backgroundColor: 'rgba(54, 162, 235, 0.2)', // Color de fondo
+            borderColor: 'rgba(54, 162, 235, 1)', // Color del borde
+            borderWidth: 2,// Ancho del borde
+        };
+
+        // ctx == context
+        new Chart($grafica, {
+            type: 'line',// Tipo de gráfica
+            data: {
+                labels: etiquetas,
+                datasets: [
+                    ventas2026,
+                    // Aquí más datos...
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            beginAtZero: true
+                        }
+                    }],
+                },
+                fill: true,
+                lineTension: 0.1,
+            }
+        }
+        );
+
+        </script>
+    </body>
+</html>

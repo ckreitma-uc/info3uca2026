@@ -1,0 +1,2414 @@
+[
+    {
+        "Boleta": "001-002-0001571 (2021-10-25)",
+        "Cliente": "FARMACIA  FARMA OPCIONES  (2480344-8)",
+        "Fecha": "2021-10-25",
+        "Total": 110000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-005-0002637 (2021-10-25)",
+        "Cliente": "FARMA SALUD  (3413885-4)",
+        "Fecha": "2021-10-25",
+        "Total": 275000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000331 (2021-10-25)",
+        "Cliente": "FARMACIA  ALPINA S.A  (80025460-0)",
+        "Fecha": "2021-10-25",
+        "Total": 77000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000332 (2021-10-25)",
+        "Cliente": "FARMACIA  ALARCON  (5037018-9)",
+        "Fecha": "2021-10-25",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001572 (2021-10-26)",
+        "Cliente": "FARMACIA LT. FARMA S.A  (80063437-3)",
+        "Fecha": "2021-10-26",
+        "Total": 110000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-005-0002638 (2021-10-26)",
+        "Cliente": "FARMA S.A.  (80022877-4)",
+        "Fecha": "2021-10-26",
+        "Total": 29138400,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002640 (2021-10-26)",
+        "Cliente": "FARMACIA DENISSE  (617598-8)",
+        "Fecha": "2021-10-26",
+        "Total": 420700,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002641 (2021-10-26)",
+        "Cliente": "MICAELA LEZCANO  (5773682)",
+        "Fecha": "2021-10-26",
+        "Total": 201000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000333 (2021-10-26)",
+        "Cliente": "MIR FARMA  (3546485-1)",
+        "Fecha": "2021-10-26",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000334 (2021-10-26)",
+        "Cliente": "FARMACIA SANTA LIBRADA  (916989-2)",
+        "Fecha": "2021-10-26",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000335 (2021-10-26)",
+        "Cliente": "FARMACIA GABILU  (1377009-8)",
+        "Fecha": "2021-10-26",
+        "Total": 165000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000336 (2021-10-26)",
+        "Cliente": "FARMACIA NOVO FARMA  (3395356-2)",
+        "Fecha": "2021-10-26",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000337 (2021-10-26)",
+        "Cliente": "FARMACIA NOVO FARMA  (3395356-2)",
+        "Fecha": "2021-10-26",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000338 (2021-10-26)",
+        "Cliente": "FARMACIA NUEVA ITALIA  (519880-1)",
+        "Fecha": "2021-10-26",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000339 (2021-10-26)",
+        "Cliente": "FARMACIA NUEVA ITALIA  (519880-1)",
+        "Fecha": "2021-10-26",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001573 (2021-10-27)",
+        "Cliente": "FARMA PEATONAL  (1240809-3)",
+        "Fecha": "2021-10-27",
+        "Total": 176000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001574 (2021-10-27)",
+        "Cliente": "FARMACIA LUZ  (851334-1)",
+        "Fecha": "2021-10-27",
+        "Total": 110000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-005-0002642 (2021-10-27)",
+        "Cliente": "FEDERICO MARTINEZ QUINTANA  (837151-2)",
+        "Fecha": "2021-10-27",
+        "Total": 3000000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000340 (2021-10-27)",
+        "Cliente": "FARMACIA BOGADO  (2000436-2)",
+        "Fecha": "2021-10-27",
+        "Total": 220000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000341 (2021-10-27)",
+        "Cliente": "FARMA 24  (4817348-7)",
+        "Fecha": "2021-10-27",
+        "Total": 1530000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001575 (2021-10-28)",
+        "Cliente": "FARMACIA FARMA FER  (2845655-6)",
+        "Fecha": "2021-10-28",
+        "Total": 55000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-005-0002643 (2021-10-28)",
+        "Cliente": "YPANE SACI Y S  (80029603-6)",
+        "Fecha": "2021-10-28",
+        "Total": 695000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000342 (2021-10-28)",
+        "Cliente": "FARMACIA MELI FARMA  (3981304-5)",
+        "Fecha": "2021-10-28",
+        "Total": 142500,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "000-000-0000233 (2021-10-29)",
+        "Cliente": "DAVISITO 2  (1854228-0)",
+        "Fecha": "2021-10-29",
+        "Total": 16500,
+        "Vendedor": "Isidoro Ca\u00f1ete"
+    },
+    {
+        "Boleta": "001-002-0001576 (2021-10-29)",
+        "Cliente": "FARMACIA DON GUSTAVO  (1737630-0)",
+        "Fecha": "2021-10-29",
+        "Total": 220000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-005-0002645 (2021-10-29)",
+        "Cliente": "CEFERINO NAMUNCURA CORONEL  (2343278-0)",
+        "Fecha": "2021-10-29",
+        "Total": 580000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000343 (2021-10-29)",
+        "Cliente": "FARMACIA SAN BUENAVENTURA  (459905-5)",
+        "Fecha": "2021-10-29",
+        "Total": 620000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000344 (2021-10-29)",
+        "Cliente": "FARMACIA GARVI  (730089-1)",
+        "Fecha": "2021-10-29",
+        "Total": 720000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000345 (2021-10-29)",
+        "Cliente": "FARMA SALUD  (3413885-4)",
+        "Fecha": "2021-10-29",
+        "Total": 420000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-001-0001405 (2021-11-01)",
+        "Cliente": "COOPERATIVA LA BARRERE\u00d1A LTDA.  (80006352-0)",
+        "Fecha": "2021-11-01",
+        "Total": 583200,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-003-0001197 (2021-11-01)",
+        "Cliente": "FARMACIA LIZ - LIZ ROJAS  (1256548-2)",
+        "Fecha": "2021-11-01",
+        "Total": 335000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-007-0000346 (2021-11-01)",
+        "Cliente": "FARMACIA CRISTO REY  (5194470-7)",
+        "Fecha": "2021-11-01",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000347 (2021-11-01)",
+        "Cliente": "BOTIQUIN ROSEDAL  (4987967-7)",
+        "Fecha": "2021-11-01",
+        "Total": 245000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000348 (2021-11-01)",
+        "Cliente": "POHA RAITY  (850031-2)",
+        "Fecha": "2021-11-01",
+        "Total": 72000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001577 (2021-11-02)",
+        "Cliente": "FARMACIA FARMA LUQUE  (8002889-7)",
+        "Fecha": "2021-11-02",
+        "Total": 500000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-005-0002647 (2021-11-02)",
+        "Cliente": "RAFAEL TAVEIRA  (1690398-6)",
+        "Fecha": "2021-11-02",
+        "Total": 180000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002649 (2021-11-02)",
+        "Cliente": "KANEKO S.A  (80052579-5)",
+        "Fecha": "2021-11-02",
+        "Total": 2750000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002650 (2021-11-02)",
+        "Cliente": "KANEKO S.A  (80052579-5)",
+        "Fecha": "2021-11-02",
+        "Total": 3300000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002651 (2021-11-02)",
+        "Cliente": "FARMACIA FARMAVIT  (3487796-7)",
+        "Fecha": "2021-11-02",
+        "Total": 770000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000349 (2021-11-02)",
+        "Cliente": "FARMACIA SANTA TERESITA  (3557348-1)",
+        "Fecha": "2021-11-02",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001578 (2021-11-03)",
+        "Cliente": "FARMA SUAREZ (DIANA SUAREZ)  (18454104-7)",
+        "Fecha": "2021-11-03",
+        "Total": 102000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001198 (2021-11-03)",
+        "Cliente": "FARMACIA MIA - LILIANA RAMOA  (3358425-7)",
+        "Fecha": "2021-11-03",
+        "Total": 560000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-005-0002653 (2021-11-03)",
+        "Cliente": "FARMA OLIVA SA  (80019742-9)",
+        "Fecha": "2021-11-03",
+        "Total": 592725,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002655 (2021-11-03)",
+        "Cliente": "DISTRIBUIDORA LA POLICLINICA S.A  (80025906-8)",
+        "Fecha": "2021-11-03",
+        "Total": 3379684,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000350 (2021-11-03)",
+        "Cliente": "FARMACIA AMERICANA S.R.L  (80060030-4)",
+        "Fecha": "2021-11-03",
+        "Total": 825000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001579 (2021-11-04)",
+        "Cliente": "FARMACIA FARMA SUR  (691243-5)",
+        "Fecha": "2021-11-04",
+        "Total": 230000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001580 (2021-11-04)",
+        "Cliente": "FARMACIA  AUXI FARMA  (1425548-0)",
+        "Fecha": "2021-11-04",
+        "Total": 180000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001581 (2021-11-04)",
+        "Cliente": "FARMACIA KUARAHY  (4218316-2)",
+        "Fecha": "2021-11-04",
+        "Total": 278000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001582 (2021-11-04)",
+        "Cliente": "FARMACIA LISBEL  (1441103-2)",
+        "Fecha": "2021-11-04",
+        "Total": 183000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001199 (2021-11-04)",
+        "Cliente": "FARMACIA SANTA MARTA - GUSTAVO R. SAMANIEGO  (3018477-0)",
+        "Fecha": "2021-11-04",
+        "Total": 300000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001200 (2021-11-04)",
+        "Cliente": "FARMACIA FEMA-DANIELA FERNANDEZ  (6190184-9)",
+        "Fecha": "2021-11-04",
+        "Total": 195000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001201 (2021-11-04)",
+        "Cliente": "FARMACIA CATI - CATALINA SANABRIA  (4391798-4)",
+        "Fecha": "2021-11-04",
+        "Total": 140000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-005-0002656 (2021-11-04)",
+        "Cliente": "FARMALOCAL SA  (80016658-2)",
+        "Fecha": "2021-11-04",
+        "Total": 376875,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002657 (2021-11-04)",
+        "Cliente": "HUGUITO SRL  (80020747-5)",
+        "Fecha": "2021-11-04",
+        "Total": 5000000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-005-0002658 (2021-11-04)",
+        "Cliente": "FEDERICO MARTINEZ QUINTANA  (837151-2)",
+        "Fecha": "2021-11-04",
+        "Total": 1500000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000351 (2021-11-04)",
+        "Cliente": "FARMACIA SAN SEBASTIAN  (1450406-5)",
+        "Fecha": "2021-11-04",
+        "Total": 148500,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000352 (2021-11-04)",
+        "Cliente": "FARMACIA SAN JOSE OBRERO  (2489971-2)",
+        "Fecha": "2021-11-04",
+        "Total": 275000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000353 (2021-11-04)",
+        "Cliente": "FARMACIA VITAL  (80055294-0)",
+        "Fecha": "2021-11-04",
+        "Total": 1400000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001583 (2021-11-05)",
+        "Cliente": "FARMACIA CRISTO LUZ  (3643438-8)",
+        "Fecha": "2021-11-05",
+        "Total": 1100000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001584 (2021-11-05)",
+        "Cliente": "FARMACIA  ARENAS  (649589-3)",
+        "Fecha": "2021-11-05",
+        "Total": 175000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001204 (2021-11-05)",
+        "Cliente": "FARMA SOL-JUNIOR LEZCANO  (4675116-5)",
+        "Fecha": "2021-11-05",
+        "Total": 525000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-005-0002660 (2021-11-05)",
+        "Cliente": "FARMACIA MAYLEN  (1322930-3)",
+        "Fecha": "2021-11-05",
+        "Total": 750000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000354 (2021-11-05)",
+        "Cliente": "FARMACIA SALUD FARMA  (2063601-6)",
+        "Fecha": "2021-11-05",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001586 (2021-11-06)",
+        "Cliente": "FARMACIA MAITEI  (3176135-6)",
+        "Fecha": "2021-11-06",
+        "Total": 155000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-007-0000355 (2021-11-06)",
+        "Cliente": "FARMA SALUD  (3413885-4)",
+        "Fecha": "2021-11-06",
+        "Total": 275000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001587 (2021-11-08)",
+        "Cliente": "FARMACIA FARMACHINA  (772648-1)",
+        "Fecha": "2021-11-08",
+        "Total": 170000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001588 (2021-11-08)",
+        "Cliente": "FARMACIA FARMA ORTIZ  (4910551-5)",
+        "Fecha": "2021-11-08",
+        "Total": 113000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001589 (2021-11-08)",
+        "Cliente": "FARMACIA  FARMA OPCIONES  (2480344-8)",
+        "Fecha": "2021-11-08",
+        "Total": 165000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001205 (2021-11-08)",
+        "Cliente": "FARMACIA ADONAI - LIZ MARIEL SANCHEZ AGUILERA  (4347520-5)",
+        "Fecha": "2021-11-08",
+        "Total": 570000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-002-0001590 (2021-11-09)",
+        "Cliente": "FARMACIA LT. FARMA S.A  (80063437-3)",
+        "Fecha": "2021-11-09",
+        "Total": 275000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001591 (2021-11-09)",
+        "Cliente": "FARMACIA SANTA ANA  (1379706-9)",
+        "Fecha": "2021-11-09",
+        "Total": 55000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001592 (2021-11-09)",
+        "Cliente": "FARMACIA SAN VICENTE  (2540474-1)",
+        "Fecha": "2021-11-09",
+        "Total": 110000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-004-0001420 (2021-11-09)",
+        "Cliente": "MILEY FARMA  (5229322-0)",
+        "Fecha": "2021-11-09",
+        "Total": 340000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-005-0002664 (2021-11-09)",
+        "Cliente": "COOPERATIVA LA BARRERE\u00d1A LTDA.  (80006352-0)",
+        "Fecha": "2021-11-09",
+        "Total": 1033200,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002666 (2021-11-09)",
+        "Cliente": "MAXIMUS S.A  (80049539-0)",
+        "Fecha": "2021-11-09",
+        "Total": 105000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002667 (2021-11-09)",
+        "Cliente": "KANEKO S.A  (80052579-5)",
+        "Fecha": "2021-11-09",
+        "Total": 4400000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000356 (2021-11-09)",
+        "Cliente": "FARMACIA GARVI  (730089-1)",
+        "Fecha": "2021-11-09",
+        "Total": 550000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-003-0001206 (2021-11-10)",
+        "Cliente": "FARMACIA MARIA AUXILIADORA S.A.  (80027428-8)",
+        "Fecha": "2021-11-10",
+        "Total": 1400000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001207 (2021-11-10)",
+        "Cliente": "FARMACIA TORORO SRL  (80050621-9)",
+        "Fecha": "2021-11-10",
+        "Total": 595000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-004-0001421 (2021-11-10)",
+        "Cliente": "FARMA SALUD  (3995605-9)",
+        "Fecha": "2021-11-10",
+        "Total": 420000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001422 (2021-11-10)",
+        "Cliente": "FARMACIA  ASTRAL  (3929475-7)",
+        "Fecha": "2021-11-10",
+        "Total": 440000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-005-0002668 (2021-11-10)",
+        "Cliente": "FARMACIA SANTA TERESITA  (3557348-1)",
+        "Fecha": "2021-11-10",
+        "Total": 550000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-005-0002669 (2021-11-10)",
+        "Cliente": "FARMACIA CONTINENTAL  (1817849-9)",
+        "Fecha": "2021-11-10",
+        "Total": 550000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-001-0001406 (2021-11-11)",
+        "Cliente": "BLAS CACERES  (2482151-9)",
+        "Fecha": "2021-11-11",
+        "Total": 450000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-002-0001593 (2021-11-11)",
+        "Cliente": "FARMACIA SAN JUAN  (747274-9)",
+        "Fecha": "2021-11-11",
+        "Total": 256000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001208 (2021-11-11)",
+        "Cliente": "M.A FARMA - BERNARDO BRIZUELA  (2027948-5)",
+        "Fecha": "2021-11-11",
+        "Total": 260000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-004-0001423 (2021-11-11)",
+        "Cliente": "FARMACIA DR PINO  (459526-2)",
+        "Fecha": "2021-11-11",
+        "Total": 140000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001424 (2021-11-11)",
+        "Cliente": "DISTRIBUIDORA  ISI DEL ESTE S.A  (80109247-7)",
+        "Fecha": "2021-11-11",
+        "Total": 2500000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001425 (2021-11-11)",
+        "Cliente": "FARMACIA D Y N  (2947203-2)",
+        "Fecha": "2021-11-11",
+        "Total": 1000000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-005-0002670 (2021-11-11)",
+        "Cliente": "FARMACIA INFANTIL  (951974-2)",
+        "Fecha": "2021-11-11",
+        "Total": 255680,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002671 (2021-11-11)",
+        "Cliente": "BIOFARMA S.A  (80046652-7)",
+        "Fecha": "2021-11-11",
+        "Total": 5500000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-005-0002672 (2021-11-11)",
+        "Cliente": "FEDERICO MARTINEZ QUINTANA  (837151-2)",
+        "Fecha": "2021-11-11",
+        "Total": 1500000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002673 (2021-11-11)",
+        "Cliente": "DANIEL\u00b4S COM. IND S.A.  (80029885-3)",
+        "Fecha": "2021-11-11",
+        "Total": 13100000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002674 (2021-11-11)",
+        "Cliente": "FARMA SALUD  (3413885-4)",
+        "Fecha": "2021-11-11",
+        "Total": 300000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-005-0002675 (2021-11-11)",
+        "Cliente": "EUNICE BENITEZ  (2837473-8)",
+        "Fecha": "2021-11-11",
+        "Total": 260000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002676 (2021-11-11)",
+        "Cliente": "FARMACIA SALUD FARMA  (2063601-6)",
+        "Fecha": "2021-11-11",
+        "Total": 220000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001594 (2021-11-12)",
+        "Cliente": "FARMACIA EMY  (3007939-0)",
+        "Fecha": "2021-11-12",
+        "Total": 200000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001209 (2021-11-12)",
+        "Cliente": "FARMACORP - CHRISTIAN ARIEL TALAVERA MARTINEZ  (4874008-0)",
+        "Fecha": "2021-11-12",
+        "Total": 120000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001210 (2021-11-12)",
+        "Cliente": "FARMACIA DIVINO NI\u00d1O JESUS  (2481179-3)",
+        "Fecha": "2021-11-12",
+        "Total": 600000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-005-0002678 (2021-11-12)",
+        "Cliente": "PA\u00d1ALERA GIULIA  (3831292-1)",
+        "Fecha": "2021-11-12",
+        "Total": 862200,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002679 (2021-11-12)",
+        "Cliente": "KANEKO S.A  (80052579-5)",
+        "Fecha": "2021-11-12",
+        "Total": 9000000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-003-0001211 (2021-11-13)",
+        "Cliente": "FARMA OFERTA  SRL  (80086971-0)",
+        "Fecha": "2021-11-13",
+        "Total": 600000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001212 (2021-11-13)",
+        "Cliente": "FARMACIA TAMY (ZULMA FIGUEREDO)  (2332040-0)",
+        "Fecha": "2021-11-13",
+        "Total": 110000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-002-0001595 (2021-11-15)",
+        "Cliente": "FARMACIA 3 HERMANOS  (474728-3)",
+        "Fecha": "2021-11-15",
+        "Total": 55000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001596 (2021-11-15)",
+        "Cliente": "FARMACIA POPULAR  (80017524-7)",
+        "Fecha": "2021-11-15",
+        "Total": 115000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001597 (2021-11-15)",
+        "Cliente": "FARMACIA  ANGY  (402160-6)",
+        "Fecha": "2021-11-15",
+        "Total": 143000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001213 (2021-11-15)",
+        "Cliente": "BOTIQUIN SANTACRUZ - JULIANA SANTACRUZ  (3933826-6)",
+        "Fecha": "2021-11-15",
+        "Total": 132000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001214 (2021-11-15)",
+        "Cliente": "FARMA FIDE-FIDELINA ORTELLADO  (4687523-9)",
+        "Fecha": "2021-11-15",
+        "Total": 70000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-004-0001426 (2021-11-15)",
+        "Cliente": "FARMACIA MERY FARMA  (3456834-4)",
+        "Fecha": "2021-11-15",
+        "Total": 300000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001427 (2021-11-15)",
+        "Cliente": "FANNY FARMA  (4224069-7)",
+        "Fecha": "2021-11-15",
+        "Total": 700000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001428 (2021-11-15)",
+        "Cliente": "FARMACIA CHIMI  (3857864-6)",
+        "Fecha": "2021-11-15",
+        "Total": 650000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001429 (2021-11-15)",
+        "Cliente": "FARMACIA CRISTO LUZ  (4678502-7)",
+        "Fecha": "2021-11-15",
+        "Total": 1800000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-005-0002680 (2021-11-15)",
+        "Cliente": "CEFERINO NAMUNCURA CORONEL  (2343278-0)",
+        "Fecha": "2021-11-15",
+        "Total": 1330000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002681 (2021-11-15)",
+        "Cliente": "FARMACIA DENISSE  (617598-8)",
+        "Fecha": "2021-11-15",
+        "Total": 700000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002682 (2021-11-15)",
+        "Cliente": "FARMACIA FARMAVIT  (3487796-7)",
+        "Fecha": "2021-11-15",
+        "Total": 500000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002683 (2021-11-15)",
+        "Cliente": "FARMACIA INFANTIL  (951974-2)",
+        "Fecha": "2021-11-15",
+        "Total": 2233032,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000357 (2021-11-15)",
+        "Cliente": "FARMACIA DANI - DANIEL NAVARRO  (5903874-8)",
+        "Fecha": "2021-11-15",
+        "Total": 115000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000358 (2021-11-15)",
+        "Cliente": "FARMACIA MARIA   AUXILIADORA  (794782-8)",
+        "Fecha": "2021-11-15",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000359 (2021-11-15)",
+        "Cliente": "MILI FARMA-ALFREDO MARTINEZ  (3415061-7)",
+        "Fecha": "2021-11-15",
+        "Total": 450000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000360 (2021-11-15)",
+        "Cliente": "FARMACIA MARIA AUXILIADORA -SONIA MEZA  (2482846-7)",
+        "Fecha": "2021-11-15",
+        "Total": 330000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000361 (2021-11-15)",
+        "Cliente": "FARMACIA EL BUEN SAMARITANO  (1982660-5)",
+        "Fecha": "2021-11-15",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000362 (2021-11-15)",
+        "Cliente": "FARMACIA ECO FARMA  (1379706-9)",
+        "Fecha": "2021-11-15",
+        "Total": 66000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000363 (2021-11-15)",
+        "Cliente": "FARMACIA  AGNO. SAN MIGUEL  (3658775-3)",
+        "Fecha": "2021-11-15",
+        "Total": 825000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000364 (2021-11-15)",
+        "Cliente": "FARMACIA SAN JORGE  (1512935-7)",
+        "Fecha": "2021-11-15",
+        "Total": 440000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000365 (2021-11-15)",
+        "Cliente": "FARMACIA SAN JORGE  (1512935-7)",
+        "Fecha": "2021-11-15",
+        "Total": 168000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001598 (2021-11-16)",
+        "Cliente": "CHRISTIAN HEISECKE  (749647-8)",
+        "Fecha": "2021-11-16",
+        "Total": 110000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001599 (2021-11-16)",
+        "Cliente": "FARMACIA VIDA FARMA SRL  (80040871-3)",
+        "Fecha": "2021-11-16",
+        "Total": 100000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001600 (2021-11-16)",
+        "Cliente": "MAS FARMACIA  (3025523-6)",
+        "Fecha": "2021-11-16",
+        "Total": 110000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001215 (2021-11-16)",
+        "Cliente": "FARMACIA TAMY (ZULMA FIGUEREDO)  (2332040-0)",
+        "Fecha": "2021-11-16",
+        "Total": 100000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001216 (2021-11-16)",
+        "Cliente": "FARMACIA FARMASUR  (672757-3)",
+        "Fecha": "2021-11-16",
+        "Total": 406000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-004-0001430 (2021-11-16)",
+        "Cliente": "GN DISTRIBUIDORA  (831033-5)",
+        "Fecha": "2021-11-16",
+        "Total": 2500000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001431 (2021-11-16)",
+        "Cliente": "COMERCIAL MISTICA BELEN  (2470415-6)",
+        "Fecha": "2021-11-16",
+        "Total": 130000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001432 (2021-11-16)",
+        "Cliente": "FARMACIA BETEL  (2088134-7)",
+        "Fecha": "2021-11-16",
+        "Total": 1400000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-005-0002686 (2021-11-16)",
+        "Cliente": "DISTRIBUIDORA LA POLICLINICA S.A  (80025906-8)",
+        "Fecha": "2021-11-16",
+        "Total": 1954400,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000366 (2021-11-16)",
+        "Cliente": "SOLU FARMA DE NILDA BEATRIZ LOPEZ MURRAY  (4127240-4)",
+        "Fecha": "2021-11-16",
+        "Total": 82500,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000367 (2021-11-16)",
+        "Cliente": "FARMACIA SOL FARMA  (3866641-3)",
+        "Fecha": "2021-11-16",
+        "Total": 223000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000368 (2021-11-16)",
+        "Cliente": "FARMACIA FRANCO FARMA  (2240000-1)",
+        "Fecha": "2021-11-16",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000369 (2021-11-16)",
+        "Cliente": "FARMACIA NICOL FARMA  (4496214-2)",
+        "Fecha": "2021-11-16",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000370 (2021-11-16)",
+        "Cliente": "FARMACIA SAN LUIS  (4458229-3)",
+        "Fecha": "2021-11-16",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000371 (2021-11-16)",
+        "Cliente": "FARMACIA COSME FARMA  (3570454-3)",
+        "Fecha": "2021-11-16",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-008-0000035 (2021-11-16)",
+        "Cliente": "FARMACIA FARMA SOL  (5328535-2)",
+        "Fecha": "2021-11-16",
+        "Total": 123000,
+        "Vendedor": "GERARDO BOGADO"
+    },
+    {
+        "Boleta": "001-008-0000036 (2021-11-16)",
+        "Cliente": "FARMACIA TU ANGEL  (1032910-2)",
+        "Fecha": "2021-11-16",
+        "Total": 84000,
+        "Vendedor": "GERARDO BOGADO"
+    },
+    {
+        "Boleta": "001-008-0000038 (2021-11-16)",
+        "Cliente": "FARMACIA FARMA SALUD  (3196675-6)",
+        "Fecha": "2021-11-16",
+        "Total": 220000,
+        "Vendedor": "GERARDO BOGADO"
+    },
+    {
+        "Boleta": "001-003-0001217 (2021-11-17)",
+        "Cliente": "FARMACIA TESAI- GLORIA ROJAS  (3221144-9)",
+        "Fecha": "2021-11-17",
+        "Total": 130000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001218 (2021-11-17)",
+        "Cliente": "FARMACIA TESAIRA-FATIMA  ALDERETE  (3219591-5)",
+        "Fecha": "2021-11-17",
+        "Total": 150000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001219 (2021-11-17)",
+        "Cliente": "FARMACIA SAN ANTONIO - IRENE GARCETE  (1286557-5)",
+        "Fecha": "2021-11-17",
+        "Total": 625000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001221 (2021-11-17)",
+        "Cliente": "FARMACIA JAZMIN - MARIA LUCIA CANO DE BOGADO  (815536-4)",
+        "Fecha": "2021-11-17",
+        "Total": 67500,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001222 (2021-11-17)",
+        "Cliente": "FARMACIA FEMA-DANIELA FERNANDEZ  (6190184-9)",
+        "Fecha": "2021-11-17",
+        "Total": 150000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001223 (2021-11-17)",
+        "Cliente": "FARMA VIDA - DINA T. ALMANDO  (803280-7)",
+        "Fecha": "2021-11-17",
+        "Total": 75000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001224 (2021-11-17)",
+        "Cliente": "FARMACIA GOLDEN - LIZZIE VALLEJOS  (1519321-7)",
+        "Fecha": "2021-11-17",
+        "Total": 150000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001225 (2021-11-17)",
+        "Cliente": "FARMACIA CATI - CATALINA SANABRIA  (4391798-4)",
+        "Fecha": "2021-11-17",
+        "Total": 220000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001226 (2021-11-17)",
+        "Cliente": "FARMACIA  AINHOA  (3439181-9)",
+        "Fecha": "2021-11-17",
+        "Total": 450000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001227 (2021-11-17)",
+        "Cliente": "FARMACIA ADONAI - LIZ MARIEL SANCHEZ AGUILERA  (4347520-5)",
+        "Fecha": "2021-11-17",
+        "Total": 75000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-004-0001433 (2021-11-17)",
+        "Cliente": "FARMACIA SAN ROQUE  (1695421-1)",
+        "Fecha": "2021-11-17",
+        "Total": 650000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001434 (2021-11-17)",
+        "Cliente": "FARMACIA NORMY  (3540234-2)",
+        "Fecha": "2021-11-17",
+        "Total": 465000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001435 (2021-11-17)",
+        "Cliente": "FARMACIA FARMA STOCK  (3553594-6)",
+        "Fecha": "2021-11-17",
+        "Total": 280000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-005-0002689 (2021-11-17)",
+        "Cliente": "FARMACIA SANTA RITA  (3399304-1)",
+        "Fecha": "2021-11-17",
+        "Total": 5000000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002690 (2021-11-17)",
+        "Cliente": "FARMACIA DEL SUR  (1923836-0)",
+        "Fecha": "2021-11-17",
+        "Total": 265000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002691 (2021-11-17)",
+        "Cliente": "FARMACIA VITAL FARMA  (5011694-0)",
+        "Fecha": "2021-11-17",
+        "Total": 2850000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000372 (2021-11-17)",
+        "Cliente": "FARMACIA SANTA LUCIA-MAURA  ALARCON  (4588379)",
+        "Fecha": "2021-11-17",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000373 (2021-11-17)",
+        "Cliente": "FARMACIA SAN ISIDRO - VERONICA FLORENTIN  (5284847-7)",
+        "Fecha": "2021-11-17",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000374 (2021-11-17)",
+        "Cliente": "FARMACIA MARIA MAGDALENA-SANDRA DUARTE  (3428020-0)",
+        "Fecha": "2021-11-17",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000375 (2021-11-17)",
+        "Cliente": "FARMACIA LUMAR  (1001717-8)",
+        "Fecha": "2021-11-17",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-003-0001228 (2021-11-18)",
+        "Cliente": "DIGNA  AYALA  (875971-5)",
+        "Fecha": "2021-11-18",
+        "Total": 690000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001229 (2021-11-18)",
+        "Cliente": "FARMACIA MIA - LILIANA RAMOA  (3358425-7)",
+        "Fecha": "2021-11-18",
+        "Total": 300000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-004-0001436 (2021-11-18)",
+        "Cliente": "FARMACIA  ANDREA  (3206277-0)",
+        "Fecha": "2021-11-18",
+        "Total": 2292000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-005-0002694 (2021-11-18)",
+        "Cliente": "FARMACIA NISI FARMA  (4164002-0)",
+        "Fecha": "2021-11-18",
+        "Total": 1401081,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "000-000-0023444 (2021-11-19)",
+        "Cliente": "ANDER Y CIA S.A  (80048805-9)",
+        "Fecha": "2021-11-19",
+        "Total": 190000,
+        "Vendedor": "Isidoro Ca\u00f1ete"
+    },
+    {
+        "Boleta": "001-002-0001601 (2021-11-19)",
+        "Cliente": "FAMACIA SOLMED  (2547001-4)",
+        "Fecha": "2021-11-19",
+        "Total": 305000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001602 (2021-11-19)",
+        "Cliente": "FARMACIA DIANA RAQUEL  (572642-5)",
+        "Fecha": "2021-11-19",
+        "Total": 145000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001603 (2021-11-19)",
+        "Cliente": "COOPERATIVA YPACARAI LIMITADA  (8007694-0)",
+        "Fecha": "2021-11-19",
+        "Total": 130000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001604 (2021-11-19)",
+        "Cliente": "FARMACIA SAN IGNACIO  (1056028-9)",
+        "Fecha": "2021-11-19",
+        "Total": 385000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001230 (2021-11-19)",
+        "Cliente": "FARMACIA TORORO SRL  (80050621-9)",
+        "Fecha": "2021-11-19",
+        "Total": 600000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001232 (2021-11-19)",
+        "Cliente": "FARMACIA SAN COSME Y DAMIAN - TERESA ESTIGARRIBIA  (4502675-0)",
+        "Fecha": "2021-11-19",
+        "Total": 157000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-005-0002696 (2021-11-19)",
+        "Cliente": "RAFAEL TAVEIRA  (1690398-6)",
+        "Fecha": "2021-11-19",
+        "Total": 180000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002697 (2021-11-19)",
+        "Cliente": "COMPA\u00d1\u00cdA QU\u00cdMICA VICENTE SCAVONE CEISA  (80001870-2)",
+        "Fecha": "2021-11-19",
+        "Total": 3622110,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002698 (2021-11-19)",
+        "Cliente": "FEDERICO MARTINEZ QUINTANA  (837151-2)",
+        "Fecha": "2021-11-19",
+        "Total": 2000000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000376 (2021-11-19)",
+        "Cliente": "MIR FARMA  (3546485-1)",
+        "Fecha": "2021-11-19",
+        "Total": 220000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-008-0000039 (2021-11-19)",
+        "Cliente": "PHARMAC FLEMING  (742039-0)",
+        "Fecha": "2021-11-19",
+        "Total": 250000,
+        "Vendedor": "GERARDO BOGADO"
+    },
+    {
+        "Boleta": "001-008-0000040 (2021-11-19)",
+        "Cliente": "FARMACIA CORAL  (763643-1)",
+        "Fecha": "2021-11-19",
+        "Total": 130000,
+        "Vendedor": "GERARDO BOGADO"
+    },
+    {
+        "Boleta": "001-004-0001437 (2021-11-22)",
+        "Cliente": "FARMACIA SALUD Y VIDA  (3823261-8)",
+        "Fecha": "2021-11-22",
+        "Total": 325000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-005-0002700 (2021-11-22)",
+        "Cliente": "FARMACIA INFANTIL  (951974-2)",
+        "Fecha": "2021-11-22",
+        "Total": 634500,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000377 (2021-11-22)",
+        "Cliente": "FARMACIA DEL FRENTE  (524664-4)",
+        "Fecha": "2021-11-22",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000378 (2021-11-22)",
+        "Cliente": "FARMACIA CRISTO REY  (688147-5)",
+        "Fecha": "2021-11-22",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000379 (2021-11-22)",
+        "Cliente": "FARMACIA ECOFARMA  (3830499-6)",
+        "Fecha": "2021-11-22",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000380 (2021-11-22)",
+        "Cliente": "DISPENSARIO MARIA LUISA  (1239225-1)",
+        "Fecha": "2021-11-22",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000381 (2021-11-22)",
+        "Cliente": "DISPENSARIO VALENTINA  (4261612-3)",
+        "Fecha": "2021-11-22",
+        "Total": 175000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000382 (2021-11-22)",
+        "Cliente": "FARMACIA RAIDAN  (SIN RUC)",
+        "Fecha": "2021-11-22",
+        "Total": 33000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000383 (2021-11-22)",
+        "Cliente": "FARMACIA  LULO  (28067-2)",
+        "Fecha": "2021-11-22",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001605 (2021-11-23)",
+        "Cliente": "FARMACIA LT. FARMA S.A  (80063437-3)",
+        "Fecha": "2021-11-23",
+        "Total": 110000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001606 (2021-11-23)",
+        "Cliente": "FARMACIA FERNANDEZ  (482329-0)",
+        "Fecha": "2021-11-23",
+        "Total": 55000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001607 (2021-11-23)",
+        "Cliente": "FARMACIA N Y C  (2620575-0)",
+        "Fecha": "2021-11-23",
+        "Total": 115000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001233 (2021-11-23)",
+        "Cliente": "FARMACIA FARMASUR  (672757-3)",
+        "Fecha": "2021-11-23",
+        "Total": 453600,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001234 (2021-11-23)",
+        "Cliente": "FARMACIA DIVINO NI\u00d1O JESUS  (2481179-3)",
+        "Fecha": "2021-11-23",
+        "Total": 270000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-004-0001438 (2021-11-23)",
+        "Cliente": "FARMACIA SAN PABLO  (2572813-0)",
+        "Fecha": "2021-11-23",
+        "Total": 140000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001439 (2021-11-23)",
+        "Cliente": "FARMACIA SINAI  (13690179-0)",
+        "Fecha": "2021-11-23",
+        "Total": 650000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001440 (2021-11-23)",
+        "Cliente": "DISTRIMED  (664964-5)",
+        "Fecha": "2021-11-23",
+        "Total": 5000000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-005-0002703 (2021-11-23)",
+        "Cliente": "FARMA S.A.  (80022877-4)",
+        "Fecha": "2021-11-23",
+        "Total": 46271400,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002704 (2021-11-23)",
+        "Cliente": "PA\u00d1ALERA GIULIA  (3831292-1)",
+        "Fecha": "2021-11-23",
+        "Total": 428400,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000384 (2021-11-23)",
+        "Cliente": "FARMACIA SAN RAMON  (3207298-8)",
+        "Fecha": "2021-11-23",
+        "Total": 165000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000385 (2021-11-23)",
+        "Cliente": "FARMACIA SAN ANTONIO  (80078725-0)",
+        "Fecha": "2021-11-23",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000386 (2021-11-23)",
+        "Cliente": "FARMACIA LA COLMENA  (218788-4)",
+        "Fecha": "2021-11-23",
+        "Total": 127000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000387 (2021-11-23)",
+        "Cliente": "FARMACIA SAN JORGE  (516523-7)",
+        "Fecha": "2021-11-23",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000388 (2021-11-23)",
+        "Cliente": "FARMACIA ANY  (666929-8)",
+        "Fecha": "2021-11-23",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-008-0000041 (2021-11-23)",
+        "Cliente": "FARMACIA SANTINO  (1359485-0)",
+        "Fecha": "2021-11-23",
+        "Total": 217000,
+        "Vendedor": "GERARDO BOGADO"
+    },
+    {
+        "Boleta": "001-002-0001608 (2021-11-24)",
+        "Cliente": "FARMACIA J.D.G  (2361391-2)",
+        "Fecha": "2021-11-24",
+        "Total": 110000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001235 (2021-11-24)",
+        "Cliente": "FARMACIA MARY - MARIA OCAMPOS  (3474402-9)",
+        "Fecha": "2021-11-24",
+        "Total": 625000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001236 (2021-11-24)",
+        "Cliente": "MEDICFARMA - RUTH BOBADILLA NOGUERA  (5345630-0)",
+        "Fecha": "2021-11-24",
+        "Total": 350000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-004-0001441 (2021-11-24)",
+        "Cliente": "FARMACIA JADI  (879768-2)",
+        "Fecha": "2021-11-24",
+        "Total": 1000000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-005-0002706 (2021-11-24)",
+        "Cliente": "EUNICE BENITEZ  (2837473-8)",
+        "Fecha": "2021-11-24",
+        "Total": 260000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000389 (2021-11-24)",
+        "Cliente": "FARMACIA SAN VICENTE  (561166-0)",
+        "Fecha": "2021-11-24",
+        "Total": 27500,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000390 (2021-11-24)",
+        "Cliente": "FARMACIA QUIINDY  (3567648-5)",
+        "Fecha": "2021-11-24",
+        "Total": 254000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000391 (2021-11-24)",
+        "Cliente": "FARMACIA SAN BUENAVENTURA  (459905-5)",
+        "Fecha": "2021-11-24",
+        "Total": 550000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000392 (2021-11-24)",
+        "Cliente": "FARMACIA SAN LORENZO CISA  (80007982-5)",
+        "Fecha": "2021-11-24",
+        "Total": 670000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001609 (2021-11-25)",
+        "Cliente": "FARMACIA FARMACHINA  (772648-1)",
+        "Fecha": "2021-11-25",
+        "Total": 120000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001610 (2021-11-25)",
+        "Cliente": "FARMACIA LAS MERCEDES  (1891175-7)",
+        "Fecha": "2021-11-25",
+        "Total": 120000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001612 (2021-11-25)",
+        "Cliente": "FARMACIA  FARMA OPCIONES  (2480344-8)",
+        "Fecha": "2021-11-25",
+        "Total": 220000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001237 (2021-11-25)",
+        "Cliente": "SOCIEDAD CIVIL BERGTHAL KOMITEE  (80014971-8)",
+        "Fecha": "2021-11-25",
+        "Total": 816000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001238 (2021-11-25)",
+        "Cliente": "SOCIEDAD CIVIL SOMMERFELD KOMITEE  (80015343-0)",
+        "Fecha": "2021-11-25",
+        "Total": 549000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001239 (2021-11-25)",
+        "Cliente": "FARMACIA HELENA-MIRIAN INES FRANCO  (1642499-9)",
+        "Fecha": "2021-11-25",
+        "Total": 140000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-004-0001442 (2021-11-25)",
+        "Cliente": "FARMACIA KAARENDY  (1274932-0)",
+        "Fecha": "2021-11-25",
+        "Total": 420000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-005-0002707 (2021-11-25)",
+        "Cliente": "FARMA SALUD  (3413885-4)",
+        "Fecha": "2021-11-25",
+        "Total": 275000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-005-0002708 (2021-11-25)",
+        "Cliente": "FEDERICO MARTINEZ QUINTANA  (837151-2)",
+        "Fecha": "2021-11-25",
+        "Total": 5000000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000393 (2021-11-25)",
+        "Cliente": "FARMACIA SERVIS FARMA  (3870436-6)",
+        "Fecha": "2021-11-25",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001613 (2021-11-26)",
+        "Cliente": "FARMA SUAREZ (DIANA SUAREZ)  (18454104-7)",
+        "Fecha": "2021-11-26",
+        "Total": 72000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001614 (2021-11-26)",
+        "Cliente": "FARMACIA \u00d1ANDUTI  (251845-7)",
+        "Fecha": "2021-11-26",
+        "Total": 130000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001615 (2021-11-26)",
+        "Cliente": "DAVISITO 2  (1854228-0)",
+        "Fecha": "2021-11-26",
+        "Total": 320000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001616 (2021-11-28)",
+        "Cliente": "FARMACIA MARIA MARILYN  (882730-3)",
+        "Fecha": "2021-11-28",
+        "Total": 494000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001617 (2021-11-29)",
+        "Cliente": "FARMACIA LUZ  (851334-1)",
+        "Fecha": "2021-11-29",
+        "Total": 165000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001618 (2021-11-29)",
+        "Cliente": "FARMACIA SAN BLAS  (1500818-5)",
+        "Fecha": "2021-11-29",
+        "Total": 430000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001240 (2021-11-29)",
+        "Cliente": "FARMACIA SAN VICENTE - Jos\u00e9 Riveros  (1970204-3)",
+        "Fecha": "2021-11-29",
+        "Total": 221000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-004-0001443 (2021-11-29)",
+        "Cliente": "DISTRIBUIDORA  ISI DEL ESTE S.A  (80109247-7)",
+        "Fecha": "2021-11-29",
+        "Total": 600000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-005-0002709 (2021-11-29)",
+        "Cliente": "CADENA FARMACENTER S.A.  (80019551-5)",
+        "Fecha": "2021-11-29",
+        "Total": 1372310,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002710 (2021-11-29)",
+        "Cliente": "FARMACIA NISI FARMA  (4164002-0)",
+        "Fecha": "2021-11-29",
+        "Total": 233964,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000394 (2021-11-29)",
+        "Cliente": "FARMACIA BOGADO  (2000436-2)",
+        "Fecha": "2021-11-29",
+        "Total": 275000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000395 (2021-11-29)",
+        "Cliente": "FARMACIA SAN FRANCISCO  (874670-2)",
+        "Fecha": "2021-11-29",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000396 (2021-11-29)",
+        "Cliente": "FARMACIA  ALPINA S.A  (80025460-0)",
+        "Fecha": "2021-11-29",
+        "Total": 143000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000397 (2021-11-29)",
+        "Cliente": "FARMACIA SAN MIGUEL  (2123084-6)",
+        "Fecha": "2021-11-29",
+        "Total": 79000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000398 (2021-11-29)",
+        "Cliente": "FARMACIA MELI FARMA  (3981304-5)",
+        "Fecha": "2021-11-29",
+        "Total": 143000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001619 (2021-11-30)",
+        "Cliente": "FARMACIA GABRIELA  (1269321-9)",
+        "Fecha": "2021-11-30",
+        "Total": 120000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001620 (2021-11-30)",
+        "Cliente": "FARMACIA GAVI FARMA  (4081271-5)",
+        "Fecha": "2021-11-30",
+        "Total": 300000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001621 (2021-11-30)",
+        "Cliente": "FARMA PEATONAL  (1240809-3)",
+        "Fecha": "2021-11-30",
+        "Total": 290000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001622 (2021-11-30)",
+        "Cliente": "FARMACIA  JOJOT  (2482345-7)",
+        "Fecha": "2021-11-30",
+        "Total": 110000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001623 (2021-11-30)",
+        "Cliente": "FARMACIA SANTA LIBRADA  (530596-9)",
+        "Fecha": "2021-11-30",
+        "Total": 180000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001624 (2021-11-30)",
+        "Cliente": "LIZ CAROLINA OLMEDO DE BENEGAS  (1985430)",
+        "Fecha": "2021-11-30",
+        "Total": 142500,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001241 (2021-11-30)",
+        "Cliente": "FARMACIA FERNANDITO - FERNANDO GAUTO  (3364101-3)",
+        "Fecha": "2021-11-30",
+        "Total": 455000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001242 (2021-11-30)",
+        "Cliente": "FARMACIA CENTRAL - RUTH P. CABRERA M.  (3711862-5)",
+        "Fecha": "2021-11-30",
+        "Total": 70000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001243 (2021-11-30)",
+        "Cliente": "FARMACIA SANTA CLARA-VIDAL SILVA  (453530-8)",
+        "Fecha": "2021-11-30",
+        "Total": 140000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001244 (2021-11-30)",
+        "Cliente": "FARMACIA ESMERALDA  (4562849-1)",
+        "Fecha": "2021-11-30",
+        "Total": 740000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001245 (2021-11-30)",
+        "Cliente": "FARMACIA SAN MIGUEL-EMILCE CORONEL  (1718789-3)",
+        "Fecha": "2021-11-30",
+        "Total": 97500,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001246 (2021-11-30)",
+        "Cliente": "FARMACIA  ASUNCION  (1306627-7)",
+        "Fecha": "2021-11-30",
+        "Total": 275000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-004-0001444 (2021-11-30)",
+        "Cliente": "COMERCIAL MISTICA BELEN  (2470415-6)",
+        "Fecha": "2021-11-30",
+        "Total": 260000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001445 (2021-11-30)",
+        "Cliente": "FARMACIA SANTA CRUZ  (2888140-0)",
+        "Fecha": "2021-11-30",
+        "Total": 150000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-005-0002711 (2021-11-30)",
+        "Cliente": "FARMACIA SANTA CRUZ  (1788434-9)",
+        "Fecha": "2021-11-30",
+        "Total": 550000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002714 (2021-11-30)",
+        "Cliente": "FARMACIA DENISSE  (617598-8)",
+        "Fecha": "2021-11-30",
+        "Total": 1024000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000399 (2021-11-30)",
+        "Cliente": "FARMACIA SAN BLAS  (3604828-3)",
+        "Fecha": "2021-11-30",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001625 (2021-12-01)",
+        "Cliente": "FARMACIA TOTAL  (861811-9)",
+        "Fecha": "2021-12-01",
+        "Total": 87500,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-004-0001446 (2021-12-01)",
+        "Cliente": "MAXIMUS S.A  (80049539-0)",
+        "Fecha": "2021-12-01",
+        "Total": 1050000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001447 (2021-12-01)",
+        "Cliente": "FARMACIA ZEINIB  (2428828-4)",
+        "Fecha": "2021-12-01",
+        "Total": 510000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-005-0002715 (2021-12-01)",
+        "Cliente": "EUNICE BENITEZ  (2837473-8)",
+        "Fecha": "2021-12-01",
+        "Total": 130000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002716 (2021-12-01)",
+        "Cliente": "FARMACIA TUPA RENDA  (1063841-5)",
+        "Fecha": "2021-12-01",
+        "Total": 250000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002718 (2021-12-01)",
+        "Cliente": "FARMA OLIVA SA  (80019742-9)",
+        "Fecha": "2021-12-01",
+        "Total": 582258,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000400 (2021-12-01)",
+        "Cliente": "FARMACIA BABY  (1471402-7)",
+        "Fecha": "2021-12-01",
+        "Total": 230000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000401 (2021-12-01)",
+        "Cliente": "FARMACIA FARMA TATI  (4498812-5)",
+        "Fecha": "2021-12-01",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-005-0002719 (2021-12-02)",
+        "Cliente": "CADENA FARMACENTER S.A.  (80019551-5)",
+        "Fecha": "2021-12-02",
+        "Total": 5592283,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002725 (2021-12-02)",
+        "Cliente": "SANTA VICTORIA  (80051752-0)",
+        "Fecha": "2021-12-02",
+        "Total": 1500000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-005-0002726 (2021-12-02)",
+        "Cliente": "FARMACIA MARIA AUXILIADORA S.A.  (80027428-8)",
+        "Fecha": "2021-12-02",
+        "Total": 1400000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-005-0002727 (2021-12-02)",
+        "Cliente": "SANTA VICTORIA  (80051752-0)",
+        "Fecha": "2021-12-02",
+        "Total": 1500000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-007-0000402 (2021-12-02)",
+        "Cliente": "FARMACIA GABILU  (1377009-8)",
+        "Fecha": "2021-12-02",
+        "Total": 151000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000403 (2021-12-02)",
+        "Cliente": "FARMALET  (3641902-8)",
+        "Fecha": "2021-12-02",
+        "Total": 182000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "000-000-0001445 (2021-12-03)",
+        "Cliente": "ARNORLD GOOSSEN REMPEL  (1050230-0)",
+        "Fecha": "2021-12-03",
+        "Total": 0,
+        "Vendedor": "Isidoro Ca\u00f1ete"
+    },
+    {
+        "Boleta": "001-001-0001407 (2021-12-03)",
+        "Cliente": "COOPERATIVA LA BARRERE\u00d1A LTDA.  (80006352-0)",
+        "Fecha": "2021-12-03",
+        "Total": 1483200,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-003-0001247 (2021-12-03)",
+        "Cliente": "LEOPOLDINA R. GONZALEZ  (1321784)",
+        "Fecha": "2021-12-03",
+        "Total": 54500,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001248 (2021-12-03)",
+        "Cliente": "FARMA BRISA - ALVA GIMENEZ  (3824847-6)",
+        "Fecha": "2021-12-03",
+        "Total": 65000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-005-0002728 (2021-12-03)",
+        "Cliente": "DISTRIBUIDORA ESTRELLA DEL NORTE S.A.  (80048500-9)",
+        "Fecha": "2021-12-03",
+        "Total": 550000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002730 (2021-12-04)",
+        "Cliente": "FARMACIA MAYLEN  (1322930-3)",
+        "Fecha": "2021-12-04",
+        "Total": 700000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-002-0001626 (2021-12-06)",
+        "Cliente": "FARMACIA CRISTO LUZ  (3643438-8)",
+        "Fecha": "2021-12-06",
+        "Total": 1440000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001627 (2021-12-06)",
+        "Cliente": "FARMACIA MAITEI  (3176135-6)",
+        "Fecha": "2021-12-06",
+        "Total": 105000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001628 (2021-12-06)",
+        "Cliente": "FARMA SUAREZ (DIANA SUAREZ)  (18454104-7)",
+        "Fecha": "2021-12-06",
+        "Total": 55000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001249 (2021-12-06)",
+        "Cliente": "FARMACIA M&A - ESMELDA CABRERA  (5817755-8)",
+        "Fecha": "2021-12-06",
+        "Total": 195000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001250 (2021-12-06)",
+        "Cliente": "ELCA FARMA - ELIODORA BRITEZ  (1173281-4)",
+        "Fecha": "2021-12-06",
+        "Total": 270000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001251 (2021-12-06)",
+        "Cliente": "FARMACIA MIGUEL-PELAGIA BENITEZ  (4299959-6)",
+        "Fecha": "2021-12-06",
+        "Total": 260000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001252 (2021-12-06)",
+        "Cliente": "FARMACIA Y PERFUMERIA CECI - CECILIO ESPINOLA  (2248900-2)",
+        "Fecha": "2021-12-06",
+        "Total": 285000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001253 (2021-12-06)",
+        "Cliente": "FARMACIA EL CAMPESINO - CEFERINO NAMUNCURA BENITEZ  (3236932-8)",
+        "Fecha": "2021-12-06",
+        "Total": 231000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-005-0002731 (2021-12-06)",
+        "Cliente": "DISTRIBUIDORA LA POLICLINICA S.A  (80025906-8)",
+        "Fecha": "2021-12-06",
+        "Total": 3062084,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000404 (2021-12-06)",
+        "Cliente": "BOTIQUIN ROSEDAL  (4987967-7)",
+        "Fecha": "2021-12-06",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000405 (2021-12-06)",
+        "Cliente": "FARMACIA CAMI  (3557054-5)",
+        "Fecha": "2021-12-06",
+        "Total": 182000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000406 (2021-12-06)",
+        "Cliente": "FARMACIA SANTA LUCIA  (4876836-4)",
+        "Fecha": "2021-12-06",
+        "Total": 84000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000407 (2021-12-06)",
+        "Cliente": "POHA RAITY  (850031-2)",
+        "Fecha": "2021-12-06",
+        "Total": 72000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000408 (2021-12-06)",
+        "Cliente": "Mirna Arguello  (402610-2)",
+        "Fecha": "2021-12-06",
+        "Total": 230000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001629 (2021-12-07)",
+        "Cliente": "FARMACIA LT. FARMA S.A  (80063437-3)",
+        "Fecha": "2021-12-07",
+        "Total": 165000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001630 (2021-12-07)",
+        "Cliente": "PARAMEDIC SRL  (80017094-6)",
+        "Fecha": "2021-12-07",
+        "Total": 275000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-007-0000409 (2021-12-07)",
+        "Cliente": "FARMACIA SAN SEBASTIAN  (1450406-5)",
+        "Fecha": "2021-12-07",
+        "Total": 275000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000410 (2021-12-07)",
+        "Cliente": "FARMACIA SANTA TERESITA  (3557348-1)",
+        "Fecha": "2021-12-07",
+        "Total": 220000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "000-000-0000100 (2021-12-08)",
+        "Cliente": "FARMACIA DUBEY ASHISH  (8537680-9)",
+        "Fecha": "2021-12-08",
+        "Total": 45000,
+        "Vendedor": "Isidoro Ca\u00f1ete"
+    },
+    {
+        "Boleta": "001-005-0000478 (2021-12-08)",
+        "Cliente": "DANIEL\u00b4S COM. IND S.A.  (80029885-3)",
+        "Fecha": "2021-12-08",
+        "Total": 45000,
+        "Vendedor": "Isidoro Ca\u00f1ete"
+    },
+    {
+        "Boleta": "001-003-0001254 (2021-12-09)",
+        "Cliente": "FARMACIA SANTA MARTA - GUSTAVO R. SAMANIEGO  (3018477-0)",
+        "Fecha": "2021-12-09",
+        "Total": 260000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001255 (2021-12-09)",
+        "Cliente": "FARMACIA MARISOLE  (2649901-0)",
+        "Fecha": "2021-12-09",
+        "Total": 195000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-005-0002734 (2021-12-09)",
+        "Cliente": "VITALMED S.A  (80059259-0)",
+        "Fecha": "2021-12-09",
+        "Total": 3250000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000411 (2021-12-09)",
+        "Cliente": "FARMACIA SAN JORGE  (3615383-4)",
+        "Fecha": "2021-12-09",
+        "Total": 550000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000412 (2021-12-09)",
+        "Cliente": "FARMACIA AMERICANA S.R.L  (80060030-4)",
+        "Fecha": "2021-12-09",
+        "Total": 550000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000413 (2021-12-09)",
+        "Cliente": "FARMACIA SAN JOSE OBRERO  (2489971-2)",
+        "Fecha": "2021-12-09",
+        "Total": 275000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000414 (2021-12-09)",
+        "Cliente": "FARMACIA VILLAS  (4362986-5)",
+        "Fecha": "2021-12-09",
+        "Total": 275000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001631 (2021-12-10)",
+        "Cliente": "FAMACIA SOLMED  (2547001-4)",
+        "Fecha": "2021-12-10",
+        "Total": 250000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001632 (2021-12-10)",
+        "Cliente": "FARMACIA EMY  (3007939-0)",
+        "Fecha": "2021-12-10",
+        "Total": 115000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-005-0002735 (2021-12-10)",
+        "Cliente": "M Y C FORTALEZA S.A (BIOFARMAS)  (80083410-0)",
+        "Fecha": "2021-12-10",
+        "Total": 1100000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002736 (2021-12-10)",
+        "Cliente": "M Y C FORTALEZA S.A (BIOFARMAS)  (80083410-0)",
+        "Fecha": "2021-12-10",
+        "Total": 1100000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000415 (2021-12-10)",
+        "Cliente": "FARMACIA GALENO  (4088589-5)",
+        "Fecha": "2021-12-10",
+        "Total": 220000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000416 (2021-12-11)",
+        "Cliente": "FARMACIA GARVI  (730089-1)",
+        "Fecha": "2021-12-11",
+        "Total": 1200000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000417 (2021-12-11)",
+        "Cliente": "FARMACIA GARVI  (730089-1)",
+        "Fecha": "2021-12-11",
+        "Total": 550000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001633 (2021-12-13)",
+        "Cliente": "FARMACIA LISBEL  (1441103-2)",
+        "Fecha": "2021-12-13",
+        "Total": 150000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001256 (2021-12-13)",
+        "Cliente": "FARMACIA LIZ - LIZ ROJAS  (1256548-2)",
+        "Fecha": "2021-12-13",
+        "Total": 195000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-004-0001448 (2021-12-13)",
+        "Cliente": "FARMACIA SALUD Y VIDA  (3823261-8)",
+        "Fecha": "2021-12-13",
+        "Total": 620000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-007-0000418 (2021-12-13)",
+        "Cliente": "FARMACIA DANI - DANIEL NAVARRO  (5903874-8)",
+        "Fecha": "2021-12-13",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000419 (2021-12-13)",
+        "Cliente": "FARMACIA MARIA   AUXILIADORA  (794782-8)",
+        "Fecha": "2021-12-13",
+        "Total": 120000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000420 (2021-12-13)",
+        "Cliente": "FARMACIA SANTA TERESA - ALEJANDRINO FRANCO  (3586397)",
+        "Fecha": "2021-12-13",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "000-000-0000103 (2021-12-14)",
+        "Cliente": "DISTRIFLUVIAL PARAGUAY S.A.  (80062372-0)",
+        "Fecha": "2021-12-14",
+        "Total": 87000,
+        "Vendedor": "Isidoro Ca\u00f1ete"
+    },
+    {
+        "Boleta": "001-002-0001634 (2021-12-14)",
+        "Cliente": "FARMACIA FARMACHINA  (772648-1)",
+        "Fecha": "2021-12-14",
+        "Total": 230000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-002-0001635 (2021-12-14)",
+        "Cliente": "FARMACIA  FARMA OPCIONES  (2480344-8)",
+        "Fecha": "2021-12-14",
+        "Total": 110000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-004-0001449 (2021-12-14)",
+        "Cliente": "FARMACIA DR PINO  (459526-2)",
+        "Fecha": "2021-12-14",
+        "Total": 420000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001450 (2021-12-14)",
+        "Cliente": "FARMACIA EVA FARMA  (1360177-6)",
+        "Fecha": "2021-12-14",
+        "Total": 300000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001451 (2021-12-14)",
+        "Cliente": "FARMACIA CHIMI  (3857864-6)",
+        "Fecha": "2021-12-14",
+        "Total": 495000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-004-0001452 (2021-12-14)",
+        "Cliente": "FARMACIA CRISTO LUZ  (4678502-7)",
+        "Fecha": "2021-12-14",
+        "Total": 950000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-005-0002737 (2021-12-14)",
+        "Cliente": "UNIFARMA DF SRL  (80068794-9)",
+        "Fecha": "2021-12-14",
+        "Total": 1056158,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002738 (2021-12-14)",
+        "Cliente": "GRUPO ENERGY S.A  (80032012-3)",
+        "Fecha": "2021-12-14",
+        "Total": 399420,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-007-0000421 (2021-12-14)",
+        "Cliente": "FARMACIA GALENO  (4088589-5)",
+        "Fecha": "2021-12-14",
+        "Total": 275000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000422 (2021-12-14)",
+        "Cliente": "FARMACIA GALENO  (4088589-5)",
+        "Fecha": "2021-12-14",
+        "Total": 330000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000423 (2021-12-14)",
+        "Cliente": "SOLU FARMA DE NILDA BEATRIZ LOPEZ MURRAY  (4127240-4)",
+        "Fecha": "2021-12-14",
+        "Total": 110000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-002-0001636 (2021-12-15)",
+        "Cliente": "FARMACIA KUARAHY  (4218316-2)",
+        "Fecha": "2021-12-15",
+        "Total": 228000,
+        "Vendedor": "TACUARA CARDOZO"
+    },
+    {
+        "Boleta": "001-003-0001257 (2021-12-15)",
+        "Cliente": "DRA. MIRTA MONTIEL AGUERO  (1303491-0)",
+        "Fecha": "2021-12-15",
+        "Total": 120000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-003-0001258 (2021-12-15)",
+        "Cliente": "FARMACIA POHARATY-ISAAC ROTELA  (1050943-7)",
+        "Fecha": "2021-12-15",
+        "Total": 350000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-004-0001453 (2021-12-15)",
+        "Cliente": "FARMA SALUD  (3995605-9)",
+        "Fecha": "2021-12-15",
+        "Total": 280000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "001-007-0000424 (2021-12-15)",
+        "Cliente": "FARMACIA CURUGUATY- ALCIDES OSORIO.  (4802311-6)",
+        "Fecha": "2021-12-15",
+        "Total": 55000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-007-0000425 (2021-12-15)",
+        "Cliente": "FARMACIA MARIA AUXILIADORA -SONIA MEZA  (2482846-7)",
+        "Fecha": "2021-12-15",
+        "Total": 780000,
+        "Vendedor": "SERGIO AXY"
+    },
+    {
+        "Boleta": "001-003-0001259 (2021-12-16)",
+        "Cliente": "FARMACIA MIA - LILIANA RAMOA  (3358425-7)",
+        "Fecha": "2021-12-16",
+        "Total": 300000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "001-005-0002740 (2021-12-16)",
+        "Cliente": "CADENA FARMACENTER S.A.  (80019551-5)",
+        "Fecha": "2021-12-16",
+        "Total": 1862660,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "001-005-0002744 (2021-12-17)",
+        "Cliente": "FARMACIA GOLDEN - LIZZIE VALLEJOS  (1519321-7)",
+        "Fecha": "2021-12-17",
+        "Total": 225000,
+        "Vendedor": "LUCIA SOUZA"
+    },
+    {
+        "Boleta": "000-000-0000104 (2021-12-22)",
+        "Cliente": "COOPERATIVA LA BARRERE\u00d1A LTDA.  (80006352-0)",
+        "Fecha": "2021-12-22",
+        "Total": 0,
+        "Vendedor": "Isidoro Ca\u00f1ete"
+    },
+    {
+        "Boleta": "000-000-0000105 (2021-12-29)",
+        "Cliente": "FARMACIA SAN AGUSTIN - ZULMA PANIAGUA  (3919038-2)",
+        "Fecha": "2021-12-29",
+        "Total": 4500,
+        "Vendedor": "GERARDO BOGADO"
+    },
+    {
+        "Boleta": "000-000-0000106 (2022-01-04)",
+        "Cliente": "FARMACIA PARAGUAY  (1513204-8)",
+        "Fecha": "2022-01-04",
+        "Total": 83500,
+        "Vendedor": "GERARDO BOGADO"
+    },
+    {
+        "Boleta": "000-000-0000107 (2022-01-11)",
+        "Cliente": "FARMACIA EL BUEN SAMARITANO - HUGO BAREIRO  (2952709-0)",
+        "Fecha": "2022-01-11",
+        "Total": 0,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {
+        "Boleta": "000-000-0000108 (2022-06-22)",
+        "Cliente": "COMPA\u00d1\u00cdA QU\u00cdMICA VICENTE SCAVONE CEISA  (80001870-2)",
+        "Fecha": "2022-06-22",
+        "Total": 54000,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "000-000-0000109 (2022-06-22)",
+        "Cliente": "COMPA\u00d1\u00cdA QU\u00cdMICA VICENTE SCAVONE CEISA  (80001870-2)",
+        "Fecha": "2022-06-22",
+        "Total": 0,
+        "Vendedor": "CEFERINO NAMUNCURA"
+    },
+    {
+        "Boleta": "000-000-0000110 (2022-08-06)",
+        "Cliente": "FARMACIA 2 HERMANAS  (1599864-9)",
+        "Fecha": "2022-08-06",
+        "Total": 120000,
+        "Vendedor": "EFRAIN CARTES"
+    },
+    {},
+    {},
+    {},
+    {}
+]

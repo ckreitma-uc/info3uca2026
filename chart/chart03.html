@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <!-- https://parzibyte.me/blog/2021/01/03/chart-js-tutorial-ejemplos-graficas-web/ -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Gráficas con chart.js | By Parzibyte</title>
+        <script src="./lib/chart.min.js"></script>
+    </head>
+    <body>
+        <h1>Ejemplo 3 - Diferentes conjuntos de datos</h1>
+        <div class="graph-containter"
+             style="position: relative;
+                    width: 50vw;
+                    height: 50vh">
+            <canvas id="grafica"></canvas>
+        </div>
+        <script>
+        // Obtener una referencia al elemento canvas del DOM
+        const $grafica = document.querySelector("#grafica");
+        // Las etiquetas son las que van en el eje X. 
+        const etiquetas = ["Enero", "Febrero", "Marzo", "Abril"]
+        // Podemos tener varios conjuntos de datos
+        const datosVentas2020 = {
+            type: 'line',
+            label: "Ventas por mes - 2020",
+            data: [5000, 1500, 8000, 5102], // La data es un arreglo que debe tener la misma cantidad de valores que la cantidad de etiquetas
+            backgroundColor: 'rgba(54, 162, 235, 0.2)', // Color de fondo
+            borderColor: 'rgba(54, 162, 235, 1)', // Color del borde
+            borderWidth: 2,// Ancho del borde
+        };
+        const datosVentas2021 = {
+            type: 'bar',
+            label: "Ventas por mes - 2021",
+            data: [10000, 1700, 5000, 5989], // La data es un arreglo que debe tener la misma cantidad de valores que la cantidad de etiquetas
+            backgroundColor: 'rgba(255, 159, 64, 0.2)',// Color de fondo
+            borderColor: 'rgba(255, 159, 64, 1)',// Color del borde
+            borderWidth: 2,// Ancho del borde
+        };
+        const datosVentas2022 = {
+            type: 'line',
+            label: "Ventas por mes - 2022",
+            data: [12000, 220, 5800, 5189], // La data es un arreglo que debe tener la misma cantidad de valores que la cantidad de etiquetas
+            backgroundColor: 'rgba(80, 55, 0, 0.2)',// Color de fondo
+            borderColor: 'rgba(80, 55, 64, 1)',// Color del borde
+            borderWidth: 2,// Ancho del borde
+        };
+
+        new Chart($grafica, {
+            type: ['line','bar','line'],// Tipo de gráfica
+            data: {
+                labels: etiquetas,
+                datasets: [
+                    datosVentas2020,
+                    datosVentas2021,
+                    datosVentas2022,
+                    // Aquí más datos...
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            beginAtZero: true
+                        }
+                    }],
+                },
+                fill: false,
+                lineTension: 0.3,
+            }
+        });
+
+        </script>
+    </body>
+</html>

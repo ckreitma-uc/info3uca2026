@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <!-- https://parzibyte.me/blog/2021/01/03/chart-js-tutorial-ejemplos-graficas-web/ -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Gráficas con chart.js | By Parzibyte</title>
+        <script src="./lib/chart.min.js"></script>
+        <script src="./lib/patternomaly.min.js"></script>
+    </head>
+    <body>
+        <h1>Ejemplo 2 - Gráfica de barras DataStructures</h1>
+        <div class="chart-container">
+            <canvas id="grafica"></canvas>
+        </div>
+        <script>
+        // Obtener una referencia al elemento canvas del DOM
+        const $grafica = document.querySelector("#grafica");
+        new Chart($grafica, {
+            type: 'bar',// Tipo de gráfica
+            data: {
+                datasets: [{
+                    data: [
+                        {id: 'Enero', valor:5000},
+                        {id: 'Febrero', valor: 1500},
+                        {id: 'Marzo', valor:8000},
+                        {id: 'Abril', valor:5102},
+                    ],
+                    barThickness: 20, //Filippi ancho de barra
+                    label : 'Estructuras',
+                    backgroundColor: [
+                        pattern.draw('square', '#ff6384'),
+                        'rgba(32,40,161,0.2)',
+                        'rgba(230,181,102,0.2)',
+                        pattern.draw('diamond', '#cc65fe'),
+                    ],// Color de fondo
+
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                parsing: {
+                    xAxisKey: 'id',
+                    yAxisKey: 'valor'
+                }
+            }
+        });
+
+        </script>
+    </body>
+</html>

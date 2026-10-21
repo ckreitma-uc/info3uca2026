@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <!-- https://www.chartjs.org/docs/latest/general/data-structures.html -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Bajar Archivos</title>
+        <script src="./lib/chart.min.js"></script>
+    </head>
+    <body>
+        <h1>Ejemplo 5 - Bajar Archivo</h1>
+        <div class="chart-containter"
+             style="position: relative;
+                    width: 50vw;
+                    height: 50vh">
+            <div style="position: relative; width: 50vw; height: 50vh;">
+            <canvas id="grafica"></canvas>
+        </div>
+        </div>
+        <script>
+        // Obtener una referencia al elemento canvas del DOM
+        const $grafica = document.querySelector("#grafica");
+        // Las etiquetas son las porciones de la gráfica
+        const etiquetas = ["Ventas", "Donaciones", "Trabajos", "Publicidad"]
+        // Podemos tener varios conjuntos de datos. Comencemos con uno
+        const datosIngresos = {
+            data: [1500, 400, 2000, 7000], // La data es un arreglo que debe tener la misma cantidad de valores que la cantidad de etiquetas
+            // Ahora debería haber tantos background colors como datos, es decir, para este ejemplo, 4
+            backgroundColor: [
+                'rgba(200, 20, 50, 0.2)', // Color de fondo
+                'rgba(12, 162, 235, 0.2)', // Color de fondo
+                'rgba(54, 200, 50, 0.2)', // Color de fondo
+                'rgba(54, 88, 235, 0.3)',
+            ],// Color de fondo
+            borderColor: [
+                'rgba(163,221,203,1)',
+                'rgba(232,233,161,1)',
+                'rgba(230,181,102,1)',
+                'rgba(229,112,126,1)',
+            ],// Color del borde
+            borderWidth: 1,// Ancho del borde
+        };
+        // Fondo blanco, de lo contrario el PNG exportado sale transparente
+        const fondoBlanco = {
+            id: 'fondoBlanco',
+            beforeDraw: function(chart) {
+                var ctx = chart.ctx;
+                ctx.save();
+                ctx.globalCompositeOperation = 'destination-over';
+                ctx.fillStyle = '#fff';
+                ctx.fillRect(0, 0, chart.width, chart.height);
+                ctx.restore();
+            }
+        };
+        var myChart = new Chart($grafica, {
+            type: 'pie',// Tipo de gráfica. Puede ser dougnhut o pie
+            plugins: [fondoBlanco],
+            data: {
+                labels: etiquetas,
+                datasets: [
+                    datosIngresos,
+                    // Aquí más datos...
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,                
+                animation: {
+                    duration: 0
+                }
+            }
+        });
+
+        // La imagen se genera al hacer clic, cuando el gráfico ya está dibujado
+        var a = document.createElement('a');
+        a.innerHTML = 'Descargar';
+        a.href = '#';
+        a.download = 'my_file_name.png';
+        a.addEventListener('click', function() {
+            a.href = myChart.toBase64Image();
+        });
+        document.body.appendChild(a);
+        </script>
+    </body>
+</html>

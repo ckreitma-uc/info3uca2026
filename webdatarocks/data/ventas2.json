@@ -1,0 +1,3845 @@
+[
+    {
+        "Artículo": "ETIQUETA  ADHESIVA PREGNITEST (50003)",
+        "Cliente": "ARNORLD GOOSSEN...",
+        "Cantidad": 10,
+        "Total": 0,
+        "Vendedor": "Isidoro Ca"
+    },
+    {
+        "Artículo": "ETIQUETA  ADHESIVA PREGNITEST (50003)",
+        "Cliente": "DAVISITO 2...",
+        "Cantidad": 2,
+        "Total": 9000,
+        "Vendedor": "Isidoro Ca"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "DAVISITO 2...",
+        "Cantidad": 1,
+        "Total": 7500,
+        "Vendedor": "Isidoro Ca"
+    },
+    {
+        "Artículo": "ETIQUETA  ADHESIVA PREGNITEST (50003)",
+        "Cliente": "ANDER Y CIA S.A...",
+        "Cantidad": 10,
+        "Total": 145000,
+        "Vendedor": "Isidoro Ca"
+    },
+    {
+        "Artículo": "AMPOLLAS VACIAS DE UNIFEM (50008)",
+        "Cliente": "ANDER Y CIA S.A...",
+        "Cantidad": 1,
+        "Total": 45000,
+        "Vendedor": "Isidoro Ca"
+    },
+    {
+        "Artículo": "ETIQUETA  ADHESIVA PREGNITEST (50003)",
+        "Cliente": "DANIEL\u00b4S COM. I...",
+        "Cantidad": 1,
+        "Total": 45000,
+        "Vendedor": "Isidoro Ca"
+    },
+    {
+        "Artículo": "ETIQUETA  ADHESIVA PREGNITEST (50003)",
+        "Cliente": "DISTRIFLUVIAL P...",
+        "Cantidad": 6,
+        "Total": 87000,
+        "Vendedor": "Isidoro Ca"
+    },
+    {
+        "Artículo": "AMPOLLAS VACIAS DE UNIFEM (50008)",
+        "Cliente": "FARMACIA DUBEY ...",
+        "Cantidad": 1,
+        "Total": 45000,
+        "Vendedor": "Isidoro Ca"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMA SALUD...",
+        "Cantidad": 50,
+        "Total": 275000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA  ALARC...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA  ALPIN...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA  ALPIN...",
+        "Cantidad": 4,
+        "Total": 22000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA  FARMA...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA LT. FA...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 2000,
+        "Total": 19280000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 250,
+        "Total": 3125000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 130,
+        "Total": 1401400,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 400 GR. (10035)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 50,
+        "Total": 2160000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC SIN LACTOSA  X 800 GR. (10042)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 10,
+        "Total": 1742000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "KISS THERAPY BALM EUCALIPTUS (10013)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 100,
+        "Total": 1430000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 400 GR. (10035)",
+        "Cliente": "FARMACIA DENISS...",
+        "Cantidad": 5,
+        "Total": 215000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 1 X 800 GR (10034)",
+        "Cliente": "FARMACIA DENISS...",
+        "Cantidad": 3,
+        "Total": 31500,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC SIN LACTOSA  X 800 GR. (10042)",
+        "Cliente": "FARMACIA DENISS...",
+        "Cantidad": 1,
+        "Total": 174200,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA NUEVA ...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 400 GR. (10035)",
+        "Cliente": "MICAELA LEZCANO...",
+        "Cantidad": 6,
+        "Total": 201000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "MIR FARMA...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA NUEVA ...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA NOVO F...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA GABILU...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA GABILU...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SANTA ...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA NOVO F...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA BOGADO...",
+        "Cantidad": 40,
+        "Total": 220000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMA 24...",
+        "Cantidad": 100,
+        "Total": 1200000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMA 24...",
+        "Cantidad": 60,
+        "Total": 330000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FEDERICO MARTIN...",
+        "Cantidad": 300,
+        "Total": 3000000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA LUZ...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMA PEATONAL...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMA PEATONAL...",
+        "Cantidad": 6,
+        "Total": 66000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "YPANE SACI Y S...",
+        "Cantidad": 50,
+        "Total": 630000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "YPANE SACI Y S...",
+        "Cantidad": 10,
+        "Total": 65000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA MELI F...",
+        "Cantidad": 15,
+        "Total": 82500,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA MELI F...",
+        "Cantidad": 5,
+        "Total": 60000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA FARMA ...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA GARVI...",
+        "Cantidad": 100,
+        "Total": 600000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA GARVI...",
+        "Cantidad": 10,
+        "Total": 120000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "MARCELO CORONEL...",
+        "Cantidad": 50,
+        "Total": 250000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "MARCELO CORONEL...",
+        "Cantidad": 30,
+        "Total": 330000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SAN BU...",
+        "Cantidad": 100,
+        "Total": 500000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA SAN BU...",
+        "Cantidad": 10,
+        "Total": 120000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMA SALUD...",
+        "Cantidad": 50,
+        "Total": 300000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMA SALUD...",
+        "Cantidad": 10,
+        "Total": 120000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA DON GU...",
+        "Cantidad": 40,
+        "Total": 220000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA CRISTO...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA LIZ - ...",
+        "Cantidad": 30,
+        "Total": 195000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA LIZ - ...",
+        "Cantidad": 10,
+        "Total": 140000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "BOTIQUIN ROSEDA...",
+        "Cantidad": 10,
+        "Total": 120000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "BOTIQUIN ROSEDA...",
+        "Cantidad": 10,
+        "Total": 70000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "BOTIQUIN ROSEDA...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "POHA RAITY...",
+        "Cantidad": 6,
+        "Total": 72000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "COOPERATIVA LA ...",
+        "Cantidad": 12,
+        "Total": 583200,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA FARMA ...",
+        "Cantidad": 100,
+        "Total": 500000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SANTA ...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "KANEKO S.A...",
+        "Cantidad": 300,
+        "Total": 3300000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA FARMAV...",
+        "Cantidad": 100,
+        "Total": 550000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA FARMAV...",
+        "Cantidad": 20,
+        "Total": 220000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "KANEKO S.A...",
+        "Cantidad": 500,
+        "Total": 2750000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "RAFAEL TAVEIRA...",
+        "Cantidad": 24,
+        "Total": 180000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMA SUAREZ (D...",
+        "Cantidad": 12,
+        "Total": 66000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMA SUAREZ (D...",
+        "Cantidad": 6,
+        "Total": 36000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA MIA - ...",
+        "Cantidad": 50,
+        "Total": 300000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA MIA - ...",
+        "Cantidad": 20,
+        "Total": 260000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 400 GR. (10035)",
+        "Cliente": "DISTRIBUIDORA L...",
+        "Cantidad": 12,
+        "Total": 566184,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 3 X 800 GR (10038)",
+        "Cliente": "DISTRIBUIDORA L...",
+        "Cantidad": 12,
+        "Total": 963900,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "DISTRIBUIDORA L...",
+        "Cantidad": 200,
+        "Total": 1480000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "DISTRIBUIDORA L...",
+        "Cantidad": 30,
+        "Total": 369600,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA AMERIC...",
+        "Cantidad": 150,
+        "Total": 825000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 400 GR. (10035)",
+        "Cliente": "FARMA OLIVA SA...",
+        "Cantidad": 15,
+        "Total": 592725,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA LISBEL...",
+        "Cantidad": 30,
+        "Total": 150000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA LISBEL...",
+        "Cantidad": 3,
+        "Total": 33000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA CATI -...",
+        "Cantidad": 10,
+        "Total": 70000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA CATI -...",
+        "Cantidad": 5,
+        "Total": 70000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC HA X 800 GR (10039)",
+        "Cliente": "ASISMED SA...",
+        "Cantidad": 3,
+        "Total": 376875,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA FEMA-D...",
+        "Cantidad": 20,
+        "Total": 130000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA FEMA-D...",
+        "Cantidad": 5,
+        "Total": 65000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SANTA ...",
+        "Cantidad": 50,
+        "Total": 300000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FEDERICO MARTIN...",
+        "Cantidad": 300,
+        "Total": 1500000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "HUGUITO SRL...",
+        "Cantidad": 1000,
+        "Total": 5000000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA  AUXI ...",
+        "Cantidad": 30,
+        "Total": 180000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA VITAL...",
+        "Cantidad": 200,
+        "Total": 1400000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN JO...",
+        "Cantidad": 50,
+        "Total": 275000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN SE...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SAN SE...",
+        "Cantidad": 7,
+        "Total": 38500,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA FARMA ...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA FARMA ...",
+        "Cantidad": 20,
+        "Total": 120000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA KUARAH...",
+        "Cantidad": 10,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "FARMACIA KUARAH...",
+        "Cantidad": 24,
+        "Total": 168000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA  ARENA...",
+        "Cantidad": 20,
+        "Total": 120000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA  ARENA...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA MAYLEN...",
+        "Cantidad": 100,
+        "Total": 750000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SALUD ...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMA SOL-JUNIO...",
+        "Cantidad": 60,
+        "Total": 390000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMA SOL-JUNIO...",
+        "Cantidad": 10,
+        "Total": 135000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA CRISTO...",
+        "Cantidad": 200,
+        "Total": 1100000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA MAITEI...",
+        "Cantidad": 20,
+        "Total": 100000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA MAITEI...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMA SALUD...",
+        "Cantidad": 50,
+        "Total": 275000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA FARMA ...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA FARMA ...",
+        "Cantidad": 5,
+        "Total": 30000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "FARMACIA FARMA ...",
+        "Cantidad": 4,
+        "Total": 28000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA  FARMA...",
+        "Cantidad": 30,
+        "Total": 165000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA FARMAC...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA FARMAC...",
+        "Cantidad": 10,
+        "Total": 60000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA ADONAI...",
+        "Cantidad": 50,
+        "Total": 300000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA ADONAI...",
+        "Cantidad": 20,
+        "Total": 270000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 400 GR. (10035)",
+        "Cliente": "MAXIMUS S.A...",
+        "Cantidad": 3,
+        "Total": 105000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "KANEKO S.A...",
+        "Cantidad": 800,
+        "Total": 4400000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "MILEY FARMA...",
+        "Cantidad": 30,
+        "Total": 210000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "MILEY FARMA...",
+        "Cantidad": 20,
+        "Total": 130000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 400 GR. (10035)",
+        "Cliente": "COOPERATIVA LA ...",
+        "Cantidad": 12,
+        "Total": 583200,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "COOPERATIVA LA ...",
+        "Cantidad": 50,
+        "Total": 450000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SANTA ...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA LT. FA...",
+        "Cantidad": 50,
+        "Total": 275000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN VI...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA GARVI...",
+        "Cantidad": 100,
+        "Total": 550000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA MARIA ...",
+        "Cantidad": 200,
+        "Total": 1400000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA TORORO...",
+        "Cantidad": 50,
+        "Total": 325000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA TORORO...",
+        "Cantidad": 20,
+        "Total": 270000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SANTA ...",
+        "Cantidad": 100,
+        "Total": 550000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMA SALUD...",
+        "Cantidad": 20,
+        "Total": 140000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMA SALUD...",
+        "Cantidad": 20,
+        "Total": 280000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA  ASTRA...",
+        "Cantidad": 80,
+        "Total": 440000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA CONTIN...",
+        "Cantidad": 100,
+        "Total": 550000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "DANIEL\u00b4S COM. I...",
+        "Cantidad": 2000,
+        "Total": 12000000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "DANIEL\u00b4S COM. I...",
+        "Cantidad": 100,
+        "Total": 1100000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMA SALUD...",
+        "Cantidad": 50,
+        "Total": 300000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FEDERICO MARTIN...",
+        "Cantidad": 300,
+        "Total": 1500000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "M.A FARMA - BER...",
+        "Cantidad": 40,
+        "Total": 260000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC SIN LACTOSA  X 800 GR. (10042)",
+        "Cliente": "BLAS CACERES...",
+        "Cantidad": 3,
+        "Total": 450000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "BIOFARMA S.A...",
+        "Cantidad": 1000,
+        "Total": 5500000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA DR PIN...",
+        "Cantidad": 20,
+        "Total": 140000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC FEH X 400 GR. (10043)",
+        "Cliente": "EUNICE BENITEZ...",
+        "Cantidad": 2,
+        "Total": 260000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC FEH X 400 GR. (10043)",
+        "Cliente": "FARMACIA INFANT...",
+        "Cantidad": 2,
+        "Total": 255680,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SALUD ...",
+        "Cantidad": 40,
+        "Total": 220000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA D Y N...",
+        "Cantidad": 200,
+        "Total": 1000000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "DISTRIBUIDORA  ...",
+        "Cantidad": 500,
+        "Total": 2500000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN JU...",
+        "Cantidad": 40,
+        "Total": 220000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SAN JU...",
+        "Cantidad": 6,
+        "Total": 36000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "KANEKO S.A...",
+        "Cantidad": 1500,
+        "Total": 9000000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC SIN LACTOSA  X 800 GR. (10042)",
+        "Cliente": "PA\u00d1ALERA GIULIA...",
+        "Cantidad": 3,
+        "Total": 438000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 400 GR. (10035)",
+        "Cliente": "PA\u00d1ALERA GIULIA...",
+        "Cantidad": 6,
+        "Total": 210000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 3 X 800 GR (10038)",
+        "Cliente": "PA\u00d1ALERA GIULIA...",
+        "Cantidad": 3,
+        "Total": 214200,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA DIVINO...",
+        "Cantidad": 100,
+        "Total": 600000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA EMY...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA EMY...",
+        "Cantidad": 15,
+        "Total": 90000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACORP - CHR...",
+        "Cantidad": 20,
+        "Total": 120000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA TAMY (...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMA OFERTA  S...",
+        "Cantidad": 100,
+        "Total": 600000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA  AGNO....",
+        "Cantidad": 100,
+        "Total": 550000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA  AGNO....",
+        "Cantidad": 50,
+        "Total": 275000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA EL BUE...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA MERY F...",
+        "Cantidad": 50,
+        "Total": 300000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "MILI FARMA-ALFR...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "MILI FARMA-ALFR...",
+        "Cantidad": 40,
+        "Total": 220000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "MILI FARMA-ALFR...",
+        "Cantidad": 10,
+        "Total": 120000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA DANI -...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA DANI -...",
+        "Cantidad": 5,
+        "Total": 60000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA ECO FA...",
+        "Cantidad": 6,
+        "Total": 33000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA ECO FA...",
+        "Cantidad": 6,
+        "Total": 33000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA MARIA ...",
+        "Cantidad": 40,
+        "Total": 220000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA MARIA ...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SAN JO...",
+        "Cantidad": 40,
+        "Total": 200000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA SAN JO...",
+        "Cantidad": 20,
+        "Total": 240000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA MARIA ...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA MARIA ...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "MARCELO CORONEL...",
+        "Cantidad": 100,
+        "Total": 500000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "MARCELO CORONEL...",
+        "Cantidad": 100,
+        "Total": 500000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "MARCELO CORONEL...",
+        "Cantidad": 30,
+        "Total": 330000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC SIN LACTOSA  X 800 GR. (10042)",
+        "Cliente": "FARMACIA INFANT...",
+        "Cantidad": 2,
+        "Total": 351000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC FEH X 400 GR. (10043)",
+        "Cliente": "FARMACIA INFANT...",
+        "Cantidad": 12,
+        "Total": 1522800,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC AR X 800 GR. (10040)",
+        "Cliente": "FARMACIA INFANT...",
+        "Cantidad": 1,
+        "Total": 114816,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC HA X 800 GR (10039)",
+        "Cliente": "FARMACIA INFANT...",
+        "Cantidad": 1,
+        "Total": 126561,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC DIGEST X 800 GR (10041)",
+        "Cliente": "FARMACIA INFANT...",
+        "Cantidad": 1,
+        "Total": 117855,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA DENISS...",
+        "Cantidad": 100,
+        "Total": 700000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMA FIDE-FIDE...",
+        "Cantidad": 10,
+        "Total": 70000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA FARMAV...",
+        "Cantidad": 100,
+        "Total": 500000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "BOTIQUIN SANTAC...",
+        "Cantidad": 12,
+        "Total": 132000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA POPULA...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA POPULA...",
+        "Cantidad": 10,
+        "Total": 60000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA CRISTO...",
+        "Cantidad": 300,
+        "Total": 1800000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA CHIMI...",
+        "Cantidad": 100,
+        "Total": 650000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA  ANGY...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA  ANGY...",
+        "Cantidad": 10,
+        "Total": 60000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "FARMACIA  ANGY...",
+        "Cantidad": 4,
+        "Total": 28000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "FARMACIA SAN JO...",
+        "Cantidad": 24,
+        "Total": 168000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA 3 HERM...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FANNY FARMA...",
+        "Cantidad": 100,
+        "Total": 700000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "CHRISTIAN HEISE...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "MAS FARMACIA...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA TAMY (...",
+        "Cantidad": 20,
+        "Total": 100000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA TU ANG...",
+        "Cantidad": 6,
+        "Total": 84000,
+        "Vendedor": "GERARDO BO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA BETEL...",
+        "Cantidad": 200,
+        "Total": 1400000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN LU...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA FARMA ...",
+        "Cantidad": 6,
+        "Total": 84000,
+        "Vendedor": "GERARDO BO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA FARMA ...",
+        "Cantidad": 6,
+        "Total": 39000,
+        "Vendedor": "GERARDO BO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA NICOL ...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SOL FA...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA SOL FA...",
+        "Cantidad": 2,
+        "Total": 24000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SOL FA...",
+        "Cantidad": 6,
+        "Total": 33000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "FARMACIA SOL FA...",
+        "Cantidad": 3,
+        "Total": 21000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "KISS THERAPY BALM STRAWBERRY (10012)",
+        "Cliente": "FARMACIA SOL FA...",
+        "Cantidad": 2,
+        "Total": 30000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "KISS THERAPY BALM EUCALIPTUS (10013)",
+        "Cliente": "FARMACIA SOL FA...",
+        "Cantidad": 2,
+        "Total": 30000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "KISS THERAPY BALM SUPERFRUIT (10014)",
+        "Cliente": "FARMACIA SOL FA...",
+        "Cantidad": 2,
+        "Total": 30000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA FARMAS...",
+        "Cantidad": 50,
+        "Total": 325000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA FARMAS...",
+        "Cantidad": 6,
+        "Total": 81000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "DISTRIBUIDORA L...",
+        "Cantidad": 100,
+        "Total": 740000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "DISTRIBUIDORA L...",
+        "Cantidad": 120,
+        "Total": 844800,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "DISTRIBUIDORA L...",
+        "Cantidad": 30,
+        "Total": 369600,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "COMERCIAL MISTI...",
+        "Cantidad": 20,
+        "Total": 130000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "GN DISTRIBUIDOR...",
+        "Cantidad": 500,
+        "Total": 2500000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "SOLU FARMA DE N...",
+        "Cantidad": 15,
+        "Total": 82500,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA COSME ...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA VIDA F...",
+        "Cantidad": 20,
+        "Total": 100000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA FRANCO...",
+        "Cantidad": 5,
+        "Total": 27500,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA FRANCO...",
+        "Cantidad": 5,
+        "Total": 27500,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA FARMA ...",
+        "Cantidad": 20,
+        "Total": 220000,
+        "Vendedor": "GERARDO BO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SAN RO...",
+        "Cantidad": 100,
+        "Total": 650000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SANTA ...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA FEMA-D...",
+        "Cantidad": 20,
+        "Total": 150000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA TESAIR...",
+        "Cantidad": 20,
+        "Total": 150000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA JAZMIN...",
+        "Cantidad": 5,
+        "Total": 67500,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA DEL SU...",
+        "Cantidad": 30,
+        "Total": 165000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA DEL SU...",
+        "Cantidad": 10,
+        "Total": 100000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SANTA ...",
+        "Cantidad": 1000,
+        "Total": 5000000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA GOLDEN...",
+        "Cantidad": 20,
+        "Total": 150000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA TESAI-...",
+        "Cantidad": 20,
+        "Total": 130000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMA VIDA - DI...",
+        "Cantidad": 10,
+        "Total": 75000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA VITAL ...",
+        "Cantidad": 300,
+        "Total": 1650000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA VITAL ...",
+        "Cantidad": 200,
+        "Total": 1200000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA CATI -...",
+        "Cantidad": 20,
+        "Total": 150000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA CATI -...",
+        "Cantidad": 10,
+        "Total": 70000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN IS...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA FARMA ...",
+        "Cantidad": 20,
+        "Total": 280000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA MARIA ...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA LUMAR...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA NORMY...",
+        "Cantidad": 50,
+        "Total": 325000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA NORMY...",
+        "Cantidad": 20,
+        "Total": 140000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA  AINHO...",
+        "Cantidad": 30,
+        "Total": 390000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA  AINHO...",
+        "Cantidad": 10,
+        "Total": 60000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA SAN AN...",
+        "Cantidad": 20,
+        "Total": 280000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SAN AN...",
+        "Cantidad": 30,
+        "Total": 180000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN AN...",
+        "Cantidad": 30,
+        "Total": 165000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA ADONAI...",
+        "Cantidad": 10,
+        "Total": 75000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA MIA - ...",
+        "Cantidad": 50,
+        "Total": 300000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA  ANDRE...",
+        "Cantidad": 140,
+        "Total": 980000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA  ANDRE...",
+        "Cantidad": 50,
+        "Total": 700000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "FARMACIA  ANDRE...",
+        "Cantidad": 72,
+        "Total": 612000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "DIGNA  AYALA...",
+        "Cantidad": 80,
+        "Total": 560000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "DIGNA  AYALA...",
+        "Cantidad": 20,
+        "Total": 130000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA NISI F...",
+        "Cantidad": 200,
+        "Total": 1200000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 800 GR. (10036)",
+        "Cliente": "FARMACIA NISI F...",
+        "Cantidad": 1,
+        "Total": 84099,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC DIGEST X 800 GR (10041)",
+        "Cliente": "FARMACIA NISI F...",
+        "Cantidad": 1,
+        "Total": 116982,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "COOPERATIVA YPA...",
+        "Cantidad": 10,
+        "Total": 70000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "COOPERATIVA YPA...",
+        "Cantidad": 10,
+        "Total": 60000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN IG...",
+        "Cantidad": 50,
+        "Total": 275000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SAN IG...",
+        "Cantidad": 10,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA CORAL...",
+        "Cantidad": 10,
+        "Total": 65000,
+        "Vendedor": "GERARDO BO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA CORAL...",
+        "Cantidad": 10,
+        "Total": 65000,
+        "Vendedor": "GERARDO BO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "MIR FARMA...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "MIR FARMA...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA TORORO...",
+        "Cantidad": 100,
+        "Total": 600000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "COMPA\u00d1\u00cdA QU\u00cdMIC...",
+        "Cantidad": 400,
+        "Total": 3200000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "COMPA\u00d1\u00cdA QU\u00cdMIC...",
+        "Cantidad": 20,
+        "Total": 158860,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 800 GR. (10036)",
+        "Cliente": "COMPA\u00d1\u00cdA QU\u00cdMIC...",
+        "Cantidad": 3,
+        "Total": 263250,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "RAFAEL TAVEIRA...",
+        "Cantidad": 24,
+        "Total": 180000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FEDERICO MARTIN...",
+        "Cantidad": 200,
+        "Total": 1000000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FEDERICO MARTIN...",
+        "Cantidad": 200,
+        "Total": 1000000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SAN CO...",
+        "Cantidad": 6,
+        "Total": 42000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA SAN CO...",
+        "Cantidad": 4,
+        "Total": 54000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "FARMACIA SAN CO...",
+        "Cantidad": 2,
+        "Total": 22000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN CO...",
+        "Cantidad": 6,
+        "Total": 39000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA DIANA ...",
+        "Cantidad": 15,
+        "Total": 90000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA DIANA ...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FAMACIA SOLMED...",
+        "Cantidad": 50,
+        "Total": 250000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FAMACIA SOLMED...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "PHARMAC FLEMING...",
+        "Cantidad": 20,
+        "Total": 250000,
+        "Vendedor": "GERARDO BO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA RAIDAN...",
+        "Cantidad": 6,
+        "Total": 33000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA CRISTO...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "DISPENSARIO VAL...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "DISPENSARIO VAL...",
+        "Cantidad": 10,
+        "Total": 120000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SALUD ...",
+        "Cantidad": 50,
+        "Total": 325000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "DISPENSARIO MAR...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA DEL FR...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA  LULO...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA ECOFAR...",
+        "Cantidad": 5,
+        "Total": 27500,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA ECOFAR...",
+        "Cantidad": 5,
+        "Total": 27500,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA SANTIN...",
+        "Cantidad": 10,
+        "Total": 125000,
+        "Vendedor": "GERARDO BO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SANTIN...",
+        "Cantidad": 10,
+        "Total": 92000,
+        "Vendedor": "GERARDO BO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 350,
+        "Total": 4375000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 70,
+        "Total": 754600,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 3000,
+        "Total": 28920000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 400 GR. (10035)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 50,
+        "Total": 2160000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 800 GR. (10036)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 10,
+        "Total": 840990,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 3 X 800 GR (10038)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 20,
+        "Total": 1594600,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC DIGEST X 800 GR (10041)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 10,
+        "Total": 1169820,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC HA X 800 GR (10039)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 15,
+        "Total": 1884390,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC SIN LACTOSA  X 800 GR. (10042)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 10,
+        "Total": 1742000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "KISS THERAPY BALM EUCALIPTUS (10013)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 100,
+        "Total": 1430000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMA S.A....",
+        "Cantidad": 200,
+        "Total": 1400000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 3 X 800 GR (10038)",
+        "Cliente": "PA\u00d1ALERA GIULIA...",
+        "Cantidad": 6,
+        "Total": 428400,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA DIVINO...",
+        "Cantidad": 20,
+        "Total": 270000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA SAN PA...",
+        "Cantidad": 10,
+        "Total": 140000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "DISTRIMED...",
+        "Cantidad": 1000,
+        "Total": 5000000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA LA COL...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA LA COL...",
+        "Cantidad": 6,
+        "Total": 72000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN RA...",
+        "Cantidad": 30,
+        "Total": 165000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN AN...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA ANY...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SAN JO...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SINAI...",
+        "Cantidad": 100,
+        "Total": 650000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA FERNAN...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA LT. FA...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA N Y C...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA N Y C...",
+        "Cantidad": 10,
+        "Total": 60000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 800 GR. (10036)",
+        "Cliente": "FARMACIA FARMAS...",
+        "Cantidad": 2,
+        "Total": 195750,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "HERO BABY 3 X 800 GR (10038)",
+        "Cliente": "FARMACIA FARMAS...",
+        "Cantidad": 2,
+        "Total": 160650,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 400 GR. (10035)",
+        "Cliente": "FARMACIA FARMAS...",
+        "Cantidad": 2,
+        "Total": 97200,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA J.D.G...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA JADI...",
+        "Cantidad": 200,
+        "Total": 1000000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC FEH X 400 GR. (10043)",
+        "Cliente": "EUNICE BENITEZ...",
+        "Cantidad": 2,
+        "Total": 260000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA MARY -...",
+        "Cantidad": 80,
+        "Total": 560000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA MARY -...",
+        "Cantidad": 10,
+        "Total": 65000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "MEDICFARMA - RU...",
+        "Cantidad": 10,
+        "Total": 130000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "MEDICFARMA - RU...",
+        "Cantidad": 20,
+        "Total": 150000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "MEDICFARMA - RU...",
+        "Cantidad": 10,
+        "Total": 70000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN VI...",
+        "Cantidad": 5,
+        "Total": 27500,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA QUIIND...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA QUIIND...",
+        "Cantidad": 12,
+        "Total": 144000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN BU...",
+        "Cantidad": 100,
+        "Total": 550000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN LO...",
+        "Cantidad": 100,
+        "Total": 550000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA SAN LO...",
+        "Cantidad": 10,
+        "Total": 120000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "SOCIEDAD CIVIL ...",
+        "Cantidad": 40,
+        "Total": 540000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "SOCIEDAD CIVIL ...",
+        "Cantidad": 24,
+        "Total": 276000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMA SALUD...",
+        "Cantidad": 50,
+        "Total": 275000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "SOCIEDAD CIVIL ...",
+        "Cantidad": 10,
+        "Total": 135000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "SOCIEDAD CIVIL ...",
+        "Cantidad": 36,
+        "Total": 414000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA HELENA...",
+        "Cantidad": 10,
+        "Total": 140000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FEDERICO MARTIN...",
+        "Cantidad": 200,
+        "Total": 1000000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FEDERICO MARTIN...",
+        "Cantidad": 200,
+        "Total": 1000000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FEDERICO MARTIN...",
+        "Cantidad": 300,
+        "Total": 3000000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA KAAREN...",
+        "Cantidad": 20,
+        "Total": 280000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA KAAREN...",
+        "Cantidad": 20,
+        "Total": 140000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SERVIS...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA  FARMA...",
+        "Cantidad": 40,
+        "Total": 220000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA LAS ME...",
+        "Cantidad": 24,
+        "Total": 120000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA FARMAC...",
+        "Cantidad": 20,
+        "Total": 120000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA \u00d1ANDUT...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "KISS THERAPY BALM EUCALIPTUS (10013)",
+        "Cliente": "FARMACIA \u00d1ANDUT...",
+        "Cantidad": 2,
+        "Total": 20000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "DAVISITO 2...",
+        "Cantidad": 40,
+        "Total": 220000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "DAVISITO 2...",
+        "Cantidad": 20,
+        "Total": 100000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMA SUAREZ (D...",
+        "Cantidad": 12,
+        "Total": 72000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA MARIA ...",
+        "Cantidad": 50,
+        "Total": 300000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA MARIA ...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "FARMACIA MARIA ...",
+        "Cantidad": 12,
+        "Total": 84000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA LUZ...",
+        "Cantidad": 30,
+        "Total": 165000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SAN FR...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN MI...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA SAN MI...",
+        "Cantidad": 2,
+        "Total": 24000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA  ALPIN...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA  ALPIN...",
+        "Cantidad": 6,
+        "Total": 33000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA BOGADO...",
+        "Cantidad": 40,
+        "Total": 220000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA BOGADO...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA MELI F...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA MELI F...",
+        "Cantidad": 6,
+        "Total": 33000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC DIGEST X 800 GR (10041)",
+        "Cliente": "FARMACIA NISI F...",
+        "Cantidad": 2,
+        "Total": 233964,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN VI...",
+        "Cantidad": 10,
+        "Total": 65000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA SAN VI...",
+        "Cantidad": 12,
+        "Total": 156000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "CADENA FARMACEN...",
+        "Cantidad": 10,
+        "Total": 98000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "CADENA FARMACEN...",
+        "Cantidad": 20,
+        "Total": 250000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 800 GR. (10036)",
+        "Cliente": "CADENA FARMACEN...",
+        "Cantidad": 4,
+        "Total": 391500,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC HA X 800 GR (10039)",
+        "Cliente": "CADENA FARMACEN...",
+        "Cantidad": 5,
+        "Total": 632810,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN BL...",
+        "Cantidad": 60,
+        "Total": 330000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA SAN BL...",
+        "Cantidad": 10,
+        "Total": 100000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "DISTRIBUIDORA  ...",
+        "Cantidad": 50,
+        "Total": 600000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN BL...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "COMERCIAL MISTI...",
+        "Cantidad": 40,
+        "Total": 260000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMA PEATONAL...",
+        "Cantidad": 30,
+        "Total": 180000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMA PEATONAL...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA DENISS...",
+        "Cantidad": 50,
+        "Total": 700000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "FARMACIA DENISS...",
+        "Cantidad": 36,
+        "Total": 324000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA FERNAN...",
+        "Cantidad": 40,
+        "Total": 260000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA FERNAN...",
+        "Cantidad": 30,
+        "Total": 195000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA CENTRA...",
+        "Cantidad": 10,
+        "Total": 70000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA ESMERA...",
+        "Cantidad": 100,
+        "Total": 600000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA ESMERA...",
+        "Cantidad": 10,
+        "Total": 140000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SANTA ...",
+        "Cantidad": 20,
+        "Total": 140000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA  ASUNC...",
+        "Cantidad": 50,
+        "Total": 275000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SANTA ...",
+        "Cantidad": 100,
+        "Total": 550000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "LIZ CAROLINA OL...",
+        "Cantidad": 15,
+        "Total": 82500,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "LIZ CAROLINA OL...",
+        "Cantidad": 10,
+        "Total": 60000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA GABRIE...",
+        "Cantidad": 20,
+        "Total": 120000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SANTA ...",
+        "Cantidad": 30,
+        "Total": 180000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA GAVI F...",
+        "Cantidad": 20,
+        "Total": 120000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA GAVI F...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "FARMACIA GAVI F...",
+        "Cantidad": 10,
+        "Total": 70000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN MI...",
+        "Cantidad": 15,
+        "Total": 97500,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA  JOJOT...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SANTA ...",
+        "Cantidad": 10,
+        "Total": 65000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SANTA ...",
+        "Cantidad": 10,
+        "Total": 85000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA BABY...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA BABY...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA BABY...",
+        "Cantidad": 10,
+        "Total": 120000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA TUPA R...",
+        "Cantidad": 50,
+        "Total": 250000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC FEH X 400 GR. (10043)",
+        "Cliente": "EUNICE BENITEZ...",
+        "Cantidad": 1,
+        "Total": 130000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 400 GR. (10035)",
+        "Cliente": "FARMA OLIVA SA...",
+        "Cantidad": 6,
+        "Total": 237090,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC HA X 800 GR (10039)",
+        "Cliente": "FARMA OLIVA SA...",
+        "Cantidad": 3,
+        "Total": 345168,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA TOTAL...",
+        "Cantidad": 10,
+        "Total": 60000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA TOTAL...",
+        "Cantidad": 5,
+        "Total": 27500,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA ZEINIB...",
+        "Cantidad": 50,
+        "Total": 300000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA ZEINIB...",
+        "Cantidad": 30,
+        "Total": 210000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "MAXIMUS S.A...",
+        "Cantidad": 150,
+        "Total": 1050000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA FARMA ...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA FARMA ...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC AR X 800 GR. (10040)",
+        "Cliente": "CADENA FARMACEN...",
+        "Cantidad": 10,
+        "Total": 1148180,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC DIGEST X 800 GR (10041)",
+        "Cliente": "CADENA FARMACEN...",
+        "Cantidad": 5,
+        "Total": 589275,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC HA X 800 GR (10039)",
+        "Cliente": "CADENA FARMACEN...",
+        "Cantidad": 1,
+        "Total": 126563,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC SIN LACTOSA  X 800 GR. (10042)",
+        "Cliente": "CADENA FARMACEN...",
+        "Cantidad": 15,
+        "Total": 2014875,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 3 X 800 GR (10038)",
+        "Cliente": "CADENA FARMACEN...",
+        "Cantidad": 15,
+        "Total": 1204890,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "CADENA FARMACEN...",
+        "Cantidad": 25,
+        "Total": 312500,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "CADENA FARMACEN...",
+        "Cantidad": 20,
+        "Total": 196000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "SANTA VICTORIA...",
+        "Cantidad": 250,
+        "Total": 1500000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA MARIA ...",
+        "Cantidad": 150,
+        "Total": 1050000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA MARIA ...",
+        "Cantidad": 50,
+        "Total": 350000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "SANTA VICTORIA...",
+        "Cantidad": 250,
+        "Total": 1500000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMALET...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMALET...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMALET...",
+        "Cantidad": 6,
+        "Total": 72000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA GABILU...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA GABILU...",
+        "Cantidad": 8,
+        "Total": 96000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "COOPERATIVA LA ...",
+        "Cantidad": 100,
+        "Total": 900000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 400 GR. (10035)",
+        "Cliente": "COOPERATIVA LA ...",
+        "Cantidad": 12,
+        "Total": 583200,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "LEOPOLDINA R. G...",
+        "Cantidad": 5,
+        "Total": 35000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "LEOPOLDINA R. G...",
+        "Cantidad": 3,
+        "Total": 19500,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMA BRISA - A...",
+        "Cantidad": 10,
+        "Total": 65000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "DISTRIBUIDORA E...",
+        "Cantidad": 100,
+        "Total": 550000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA MAYLEN...",
+        "Cantidad": 100,
+        "Total": 700000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "POHA RAITY...",
+        "Cantidad": 6,
+        "Total": 72000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA CAMI...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA CAMI...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA CAMI...",
+        "Cantidad": 6,
+        "Total": 72000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "BOTIQUIN ROSEDA...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA EL CAM...",
+        "Cantidad": 33,
+        "Total": 231000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA MIGUEL...",
+        "Cantidad": 40,
+        "Total": 260000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMA SUAREZ (D...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "Mirna Arguello...",
+        "Cantidad": 10,
+        "Total": 120000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "Mirna Arguello...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA CRISTO...",
+        "Cantidad": 240,
+        "Total": 1320000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA CRISTO...",
+        "Cantidad": 20,
+        "Total": 120000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA MAITEI...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA MAITEI...",
+        "Cantidad": 10,
+        "Total": 50000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "FARMACIA SANTA ...",
+        "Cantidad": 12,
+        "Total": 84000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA Y PERF...",
+        "Cantidad": 10,
+        "Total": 135000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA Y PERF...",
+        "Cantidad": 20,
+        "Total": 150000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 400 GR. (10035)",
+        "Cliente": "DISTRIBUIDORA L...",
+        "Cantidad": 12,
+        "Total": 566184,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 3 X 800 GR (10038)",
+        "Cliente": "DISTRIBUIDORA L...",
+        "Cantidad": 12,
+        "Total": 963900,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "DISTRIBUIDORA L...",
+        "Cantidad": 60,
+        "Total": 422400,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "DISTRIBUIDORA L...",
+        "Cantidad": 100,
+        "Total": 740000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "DISTRIBUIDORA L...",
+        "Cantidad": 30,
+        "Total": 369600,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA M&A - ...",
+        "Cantidad": 30,
+        "Total": 195000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "ELCA FARMA - EL...",
+        "Cantidad": 20,
+        "Total": 270000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SANTA ...",
+        "Cantidad": 40,
+        "Total": 220000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "PARAMEDIC SRL...",
+        "Cantidad": 50,
+        "Total": 275000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA LT. FA...",
+        "Cantidad": 30,
+        "Total": 165000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN SE...",
+        "Cantidad": 30,
+        "Total": 165000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SAN SE...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA VILLAS...",
+        "Cantidad": 50,
+        "Total": 275000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN JO...",
+        "Cantidad": 100,
+        "Total": 550000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA AMERIC...",
+        "Cantidad": 100,
+        "Total": 550000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SAN JO...",
+        "Cantidad": 50,
+        "Total": 275000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA SANTA ...",
+        "Cantidad": 20,
+        "Total": 260000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA MARISO...",
+        "Cantidad": 30,
+        "Total": 195000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "VITALMED S.A...",
+        "Cantidad": 500,
+        "Total": 3250000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA GALENO...",
+        "Cantidad": 40,
+        "Total": 220000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FAMACIA SOLMED...",
+        "Cantidad": 50,
+        "Total": 250000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA EMY...",
+        "Cantidad": 10,
+        "Total": 60000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA EMY...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "M Y C FORTALEZA...",
+        "Cantidad": 200,
+        "Total": 1100000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA GARVI...",
+        "Cantidad": 200,
+        "Total": 1200000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA GARVI...",
+        "Cantidad": 100,
+        "Total": 550000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA LIZ - ...",
+        "Cantidad": 30,
+        "Total": 195000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA MARIA ...",
+        "Cantidad": 10,
+        "Total": 120000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SANTA ...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA DANI -...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA SALUD ...",
+        "Cantidad": 50,
+        "Total": 425000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA SALUD ...",
+        "Cantidad": 30,
+        "Total": 195000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA LISBEL...",
+        "Cantidad": 30,
+        "Total": 150000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 400 GR. (10035)",
+        "Cliente": "GRUPO ENERGY S....",
+        "Cantidad": 2,
+        "Total": 97920,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "GRUPO ENERGY S....",
+        "Cantidad": 5,
+        "Total": 53750,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "GRUPO ENERGY S....",
+        "Cantidad": 5,
+        "Total": 40000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "GRUPO ENERGY S....",
+        "Cantidad": 11,
+        "Total": 123750,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "GRUPO ENERGY S....",
+        "Cantidad": 6,
+        "Total": 84000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC SIN LACTOSA  X 800 GR. (10042)",
+        "Cliente": "UNIFARMA DF SRL...",
+        "Cantidad": 2,
+        "Total": 348400,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 400 GR. (10035)",
+        "Cliente": "UNIFARMA DF SRL...",
+        "Cantidad": 2,
+        "Total": 86400,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC AR X 800 GR. (10040)",
+        "Cliente": "UNIFARMA DF SRL...",
+        "Cantidad": 2,
+        "Total": 227934,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC DIGEST X 800 GR (10041)",
+        "Cliente": "UNIFARMA DF SRL...",
+        "Cantidad": 2,
+        "Total": 233964,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY 3 X 800 GR (10038)",
+        "Cliente": "UNIFARMA DF SRL...",
+        "Cantidad": 2,
+        "Total": 159460,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA GALENO...",
+        "Cantidad": 40,
+        "Total": 220000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA GALENO...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA GALENO...",
+        "Cantidad": 60,
+        "Total": 330000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "SOLU FARMA DE N...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA DR PIN...",
+        "Cantidad": 30,
+        "Total": 195000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA DR PIN...",
+        "Cantidad": 10,
+        "Total": 85000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA DR PIN...",
+        "Cantidad": 10,
+        "Total": 140000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA CHIMI...",
+        "Cantidad": 20,
+        "Total": 170000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA CHIMI...",
+        "Cantidad": 50,
+        "Total": 325000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA CRISTO...",
+        "Cantidad": 100,
+        "Total": 600000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA CRISTO...",
+        "Cantidad": 10,
+        "Total": 140000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA CRISTO...",
+        "Cantidad": 30,
+        "Total": 210000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA EVA FA...",
+        "Cantidad": 20,
+        "Total": 130000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA EVA FA...",
+        "Cantidad": 20,
+        "Total": 170000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA  FARMA...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA FARMAC...",
+        "Cantidad": 20,
+        "Total": 110000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA FARMAC...",
+        "Cantidad": 20,
+        "Total": 120000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "DRA. MIRTA MONT...",
+        "Cantidad": 12,
+        "Total": 120000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA POHARA...",
+        "Cantidad": 50,
+        "Total": 350000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA KUARAH...",
+        "Cantidad": 10,
+        "Total": 60000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "CARAMELOS SAWES LIMON (10005)",
+        "Cliente": "FARMACIA KUARAH...",
+        "Cantidad": 24,
+        "Total": 168000,
+        "Vendedor": "JULIO PALA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMA SALUD...",
+        "Cantidad": 20,
+        "Total": 140000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMA SALUD...",
+        "Cantidad": 10,
+        "Total": 140000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA MARIA ...",
+        "Cantidad": 60,
+        "Total": 330000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA MARIA ...",
+        "Cantidad": 60,
+        "Total": 330000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "FARMACIA MARIA ...",
+        "Cantidad": 10,
+        "Total": 120000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA CURUGU...",
+        "Cantidad": 10,
+        "Total": 55000,
+        "Vendedor": "OSCAR BOGA"
+    },
+    {
+        "Artículo": "ETIQUETA  ADHESIVA PREGNITEST (50003)",
+        "Cliente": "FARMACIA PARAGU...",
+        "Cantidad": 10,
+        "Total": 75000,
+        "Vendedor": "GERARDO BO"
+    },
+    {
+        "Artículo": "AMPOLLAS VACIAS DE UNIFEM (50008)",
+        "Cliente": "FARMACIA PARAGU...",
+        "Cantidad": 1,
+        "Total": 8500,
+        "Vendedor": "GERARDO BO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC FEH X 400 GR. (10043)",
+        "Cliente": "FARMACIA INFANT...",
+        "Cantidad": 5,
+        "Total": 634500,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "M Y C FORTALEZA...",
+        "Cantidad": 200,
+        "Total": 1100000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "FARMACIA MIA - ...",
+        "Cantidad": 50,
+        "Total": 300000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "HERO BABY 2 X 400 GR. (10035)",
+        "Cliente": "CADENA FARMACEN...",
+        "Cantidad": 5,
+        "Total": 235915,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "PREGNITEST (10001)",
+        "Cliente": "COOPERATIVA LA ...",
+        "Cantidad": 1,
+        "Total": 0,
+        "Vendedor": "Isidoro Ca"
+    },
+    {
+        "Artículo": "ETIQUETA  ADHESIVA PREGNITEST (50003)",
+        "Cliente": "COOPERATIVA LA ...",
+        "Cantidad": 10,
+        "Total": 0,
+        "Vendedor": "Isidoro Ca"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC DIGEST X 800 GR (10041)",
+        "Cliente": "CADENA FARMACEN...",
+        "Cantidad": 3,
+        "Total": 353565,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "HERO BABY PEDIALAC AR X 800 GR. (10040)",
+        "Cliente": "CADENA FARMACEN...",
+        "Cantidad": 10,
+        "Total": 1148180,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "ERINOL X 10 CB (10030)",
+        "Cliente": "CADENA FARMACEN...",
+        "Cantidad": 10,
+        "Total": 125000,
+        "Vendedor": "MARCELO"
+    },
+    {
+        "Artículo": "UNIFEM X 1 AMPOLLA (10010)",
+        "Cliente": "FARMACIA GOLDEN...",
+        "Cantidad": 30,
+        "Total": 225000,
+        "Vendedor": "LUCIA SOUZ"
+    },
+    {
+        "Artículo": "ETIQUETA  ADHESIVA PREGNITEST (50003)",
+        "Cliente": "FARMACIA SAN AG...",
+        "Cantidad": 1,
+        "Total": 4500,
+        "Vendedor": "GERARDO BO"
+    },
+    {
+        "Artículo": "AMPOLLAS VACIAS DE UNIFEM (50008)",
+        "Cliente": "FARMACIA 2 HERM...",
+        "Cantidad": 10,
+        "Total": 45000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "ETIQUETA  ADHESIVA PREGNITEST (50003)",
+        "Cliente": "FARMACIA 2 HERM...",
+        "Cantidad": 10,
+        "Total": 75000,
+        "Vendedor": "CARLOS MAL"
+    },
+    {
+        "Artículo": "PROSPECTO PREGNITEST (50002)",
+        "Cliente": "COMPA\u00d1\u00cdA QU\u00cdMIC...",
+        "Cantidad": 12,
+        "Total": 54000,
+        "Vendedor": "MARCELO"
+    }
+]

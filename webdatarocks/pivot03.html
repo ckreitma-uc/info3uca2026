@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta name="description" content="Pivot Table Example 3">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Pivot Table</title>
+    </head>
+    <body>
+        <div id="wdr-component"></div>
+        <link href="./lib1.4.23/webdatarocks.min.css" rel="stylesheet" />
+        <link rel="stylesheet"
+              type="text/css"
+              href="./lib1.4.23/theme/teal/webdatarocks.css" />
+        <script src="./lib1.4.23/webdatarocks.toolbar.min.js"></script>
+        <script src="./lib1.4.23/webdatarocks.js"></script>
+        <script>
+var pivot = new WebDataRocks({
+	container: "#wdr-component",
+	toolbar: true,
+	report: {
+		dataSource: {
+			filename: "./data/ventas2.json",
+		},
+        localization: "./lib1.4.23/loc/es.json"
+	}
+});
+        </script>
+    </body>
+</html>
