@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Quick Start - Leaflet</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon"
+              type="image/x-icon"
+              href="docs/images/favicon.ico" />
+        <link rel="stylesheet"
+              href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+              integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+              crossorigin="" />
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+                integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+                crossorigin=""></script>
+        <script type="text/javascript" src="./data/departamento.js"></script>
+        <script type="text/javascript" src="./data/distrito.js"></script>
+    </head>
+    <body>
+        <div id="map" style="width: 1024px; height: 768px;"></div>
+        <script>
+	//https://mappinggis.com/2013/06/como-crear-un-mapa-con-leaflet/s
+	var mymap = L.map('map').setView([-23.986253, -56.865234], 8);
+
+	L.geoJson(departamento).addTo(mymap);
+	//L.geoJson(distrito).addTo(mymap);
+
+	var popup = L.popup();
+
+	function onMapClick(e) {
+		popup
+			.setLatLng(e.latlng)
+			.setContent('texto=' + feature.properties.DEPARTAMEN)
+			.openOn(mymap);
+	}
+
+	mymap.on('click', onMapClick);
+	//mymap.bindPopup('<h1>'+feature.properties.DEPARTAMEN+'</h1><p>name: '+feature.properties.DISTRITO+'</p>')
+
+        </script>
+    </body>
+</html>
